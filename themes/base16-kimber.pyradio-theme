@@ -1,0 +1,43 @@
+# Base16 Kimber for pyradio
+# By Mishka Nguyen (https://github.com/akhsiM)
+
+# Main foreground and background
+Stations            #DEDEE7 #222222
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #C88C8C
+
+# Status bar foreground and background
+Status Bar          #222222 #537C9C
+
+# Normal cursor foreground and background
+Normal Cursor       #222222 #537C9C
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #222222 #C88C8C
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #222222 #537C9C
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #D8B56D
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #99C899
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #644646
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

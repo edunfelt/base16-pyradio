@@ -1,0 +1,43 @@
+# Base16 Primer Dark for pyradio
+# By Jimmy Lin
+
+# Main foreground and background
+Stations            #b1bac4 #010409
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #ff7b72
+
+# Status bar foreground and background
+Status Bar          #010409 #58a6ff
+
+# Normal cursor foreground and background
+Normal Cursor       #010409 #58a6ff
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #010409 #ff7b72
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #010409 #58a6ff
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #d29922
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #3fb950
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #484f58
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

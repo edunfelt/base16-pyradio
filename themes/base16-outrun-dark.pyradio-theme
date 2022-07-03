@@ -1,0 +1,43 @@
+# Base16 Outrun Dark for pyradio
+# By Hugo Delahousse (http://github.com/hugodelahousse/)
+
+# Main foreground and background
+Stations            #D0D0FA #00002A
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #FF4242
+
+# Status bar foreground and background
+Status Bar          #00002A #66B0FF
+
+# Normal cursor foreground and background
+Normal Cursor       #00002A #66B0FF
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #00002A #FF4242
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #00002A #66B0FF
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #F3E877
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #59F176
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #50507A
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

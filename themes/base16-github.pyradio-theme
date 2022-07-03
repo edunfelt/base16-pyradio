@@ -1,0 +1,43 @@
+# Base16 Github for pyradio
+# By Defman21
+
+# Main foreground and background
+Stations            #333333 #ffffff
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #ed6a43
+
+# Status bar foreground and background
+Status Bar          #ffffff #795da3
+
+# Normal cursor foreground and background
+Normal Cursor       #ffffff #795da3
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #ffffff #ed6a43
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #ffffff #795da3
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #795da3
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #183691
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #969896
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

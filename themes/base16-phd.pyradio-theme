@@ -1,0 +1,43 @@
+# Base16 PhD for pyradio
+# By Hennig Hasemann (http://leetless.de/vim.html)
+
+# Main foreground and background
+Stations            #b8bbc2 #061229
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #d07346
+
+# Status bar foreground and background
+Status Bar          #061229 #5299bf
+
+# Normal cursor foreground and background
+Normal Cursor       #061229 #5299bf
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #061229 #d07346
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #061229 #5299bf
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #fbd461
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #99bf52
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #717885
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

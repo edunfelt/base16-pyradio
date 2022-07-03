@@ -1,0 +1,43 @@
+# Base16 UwUnicorn for pyradio
+# By Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+
+# Main foreground and background
+Stations            #eed5d9 #241b26
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #877bb6
+
+# Status bar foreground and background
+Status Bar          #241b26 #6a9eb5
+
+# Normal cursor foreground and background
+Normal Cursor       #241b26 #6a9eb5
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #241b26 #877bb6
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #241b26 #6a9eb5
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #a84a73
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #c965bf
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #6c3cb2
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

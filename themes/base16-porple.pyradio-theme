@@ -1,0 +1,43 @@
+# Base16 Porple for pyradio
+# By Niek den Breeje (https://github.com/AuditeMarlow)
+
+# Main foreground and background
+Stations            #d8d8d8 #292c36
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #f84547
+
+# Status bar foreground and background
+Status Bar          #292c36 #8485ce
+
+# Normal cursor foreground and background
+Normal Cursor       #292c36 #8485ce
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #292c36 #f84547
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #292c36 #8485ce
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #efa16b
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #95c76f
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #65568a
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

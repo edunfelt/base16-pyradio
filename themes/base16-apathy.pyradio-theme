@@ -1,0 +1,43 @@
+# Base16 Apathy for pyradio
+# By Jannik Siebert (https://github.com/janniks)
+
+# Main foreground and background
+Stations            #81B5AC #031A16
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #3E9688
+
+# Status bar foreground and background
+Status Bar          #031A16 #96883E
+
+# Normal cursor foreground and background
+Normal Cursor       #031A16 #96883E
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #031A16 #3E9688
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #031A16 #96883E
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #3E4C96
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #883E96
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #2B685E
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

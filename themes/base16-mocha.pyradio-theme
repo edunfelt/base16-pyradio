@@ -1,0 +1,43 @@
+# Base16 Mocha for pyradio
+# By Chris Kempson (http://chriskempson.com)
+
+# Main foreground and background
+Stations            #d0c8c6 #3B3228
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #cb6077
+
+# Status bar foreground and background
+Status Bar          #3B3228 #8ab3b5
+
+# Normal cursor foreground and background
+Normal Cursor       #3B3228 #8ab3b5
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #3B3228 #cb6077
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #3B3228 #8ab3b5
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #f4bc87
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #beb55b
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #7e705a
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

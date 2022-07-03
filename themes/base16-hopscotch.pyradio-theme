@@ -1,0 +1,43 @@
+# Base16 Hopscotch for pyradio
+# By Jan T. Sott
+
+# Main foreground and background
+Stations            #b9b5b8 #322931
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #dd464c
+
+# Status bar foreground and background
+Status Bar          #322931 #1290bf
+
+# Normal cursor foreground and background
+Normal Cursor       #322931 #1290bf
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #322931 #dd464c
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #322931 #1290bf
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #fdcc59
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #8fc13e
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #797379
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

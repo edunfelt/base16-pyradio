@@ -1,0 +1,43 @@
+# Base16 Rebecca for pyradio
+# By Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
+# Main foreground and background
+Stations            #f1eff8 #292a44
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #a0a0c5
+
+# Status bar foreground and background
+Status Bar          #292a44 #2de0a7
+
+# Normal cursor foreground and background
+Normal Cursor       #292a44 #2de0a7
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #292a44 #a0a0c5
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #292a44 #2de0a7
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ae81ff
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #6dfedf
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #666699
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

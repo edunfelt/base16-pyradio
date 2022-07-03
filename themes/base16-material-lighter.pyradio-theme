@@ -1,0 +1,43 @@
+# Base16 Material Lighter for pyradio
+# By Nate Peterson
+
+# Main foreground and background
+Stations            #80CBC4 #FAFAFA
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #FF5370
+
+# Status bar foreground and background
+Status Bar          #FAFAFA #6182B8
+
+# Normal cursor foreground and background
+Normal Cursor       #FAFAFA #6182B8
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #FAFAFA #FF5370
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #FAFAFA #6182B8
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #FFB62C
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #91B859
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #CCD7DA
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Embers for pyradio
+# By Jannik Siebert (https://github.com/janniks)
+
+# Main foreground and background
+Stations            #A39A90 #16130F
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #826D57
+
+# Status bar foreground and background
+Status Bar          #16130F #6D5782
+
+# Normal cursor foreground and background
+Normal Cursor       #16130F #6D5782
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #16130F #826D57
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #16130F #6D5782
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #6D8257
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #57826D
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #5A5047
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

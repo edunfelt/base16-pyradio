@@ -1,0 +1,43 @@
+# Base16 Humanoid light for pyradio
+# By Thomas (tasmo) Friese
+
+# Main foreground and background
+Stations            #232629 #f8f8f2
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #b0151a
+
+# Status bar foreground and background
+Status Bar          #f8f8f2 #0082c9
+
+# Normal cursor foreground and background
+Normal Cursor       #f8f8f2 #0082c9
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #f8f8f2 #b0151a
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #f8f8f2 #0082c9
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ffb627
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #388e3c
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #c0c0bd
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

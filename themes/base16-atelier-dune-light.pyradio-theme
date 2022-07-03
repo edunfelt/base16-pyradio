@@ -1,0 +1,43 @@
+# Base16 Atelier Dune Light for pyradio
+# By Bram de Haan (http://atelierbramdehaan.nl)
+
+# Main foreground and background
+Stations            #6e6b5e #fefbec
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #d73737
+
+# Status bar foreground and background
+Status Bar          #fefbec #6684e1
+
+# Normal cursor foreground and background
+Normal Cursor       #fefbec #6684e1
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #fefbec #d73737
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #fefbec #6684e1
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ae9513
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #60ac39
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #999580
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0
