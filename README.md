@@ -28,17 +28,22 @@ make
 Contributions are welcome and greatly appreciated!
 
 ## Screenshots
-** cupcake **
+**cupcake**
+
 ![cupcake](assets/cupcake.png)
 
-** nord **
+**nord**
+
 ![nord](assets/nord.png)
 
-** catppuccin **
+**catppuccin**
+
 ![catppuccin](assets/catppuccin.png)
 
-** everforest **
+**everforest**
+
 ![everforest](assets/everforest.png)
 
-** solarized-dark **
+**solarized-dark**
+
 ![solarized-dark](assets/solarized.png)
