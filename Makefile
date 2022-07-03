@@ -1,6 +1,6 @@
 # Generate themefiles for base16 templates
 # Execute inside repo root directory
-# Reference: https://github.com/theova/base16-qutebrowser
+# Adapted from: https://github.com/theova/base16-qutebrowser
 
 BUILD=pybase16
 REPO=$(shell pwd)
