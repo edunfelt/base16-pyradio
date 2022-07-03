@@ -1,0 +1,3 @@
+default:
+  extension: .pyradio-theme
+  output: themes
