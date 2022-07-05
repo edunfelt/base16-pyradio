@@ -1,7 +1,7 @@
 # base16-pyradio
 This repo contains a set of theme files and templates for internet radio player [pyradio](https://github.com/coderholic/pyradio) meant to work with any [base16 builder](https://github.com/base16-project/base16).
 
-Prebuilt themes have been built using [base16-builder-python](https://github.com/InspectorMustache/base16-builder-python), and can be found in the `themes/` directory. For detailed build and installation instructions, see [Installation](#installation).
+Prebuilt themes have been built using [base16-builder-node](https://github.com/base16-project/base16-builder-node), and can be found in the `themes/` directory. For detailed build and installation instructions, see [Installation](#installation).
 
 ## Installation
 ### Install a theme
@@ -19,6 +19,7 @@ curl https://raw.githubusercontent.com/edunfelt/base16-pyradio/master/themes/bas
 
 #### Instructions
 ```
+mkdir -p base16/templates && cd base16/templates
 git clone git@github.com:edunfelt/base16-pyradio.git
 cd base16-pyradio
 make
@@ -80,7 +81,7 @@ do
     COUNT=1
     for n in *.pyradio-theme
     do
-        if [ -e "$n" ]
+        if [ -s "$n" ]
         then
             printf '%3s/%s. ' $COUNT $ALL
             echo ${n/.*/}
@@ -98,7 +99,7 @@ done
 Finally, make it executable:
 
 ```
-cmod +x ~/.local/bin/cycle_pyradio_themes
+chmod +x ~/.local/bin/cycle_pyradio_themes
 ```
 
 Obviously, you will have to use the file location you used when you created the file.
