@@ -9,16 +9,17 @@ BASE16_DIR=$(REPO)/base16
 TEMP_DIR=$(BASE16_DIR)/templates/base16-pyradio
 OUTPUT=out
 
-all: build
+all: update build
+
+update:
+	mkdir -p $(BASE16_DIR)
+	rm -rf $(BASE16_DIR)/schemes
+	git clone https://github.com/base16-project/base16-schemes.git $(BASE16_DIR)/schemes
 
 build:
-	rm -rf $(BASE16_DIR)
 	mkdir -p $(TEMP_DIR)
-	git clone https://github.com/base16-project/base16-schemes.git $(BASE16_DIR)/schemes
-	mv templates/ $(TEMP_DIR)
+	ln -sfn $(REPO)/templates/ $(TEMP_DIR)
 	base16 build
 	rm -rf $(THEME_DIR)
-	mv $(TEMP_DIR)/templates $(REPO)
 	mv $(TEMP_DIR)/themes $(REPO)
-	rm -rf $(BASE16_DIR)
 	
