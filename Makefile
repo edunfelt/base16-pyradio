@@ -2,21 +2,22 @@
 # Execute inside repo root directory
 # Adapted from: https://github.com/theova/base16-qutebrowser
 
-BUILD=pybase16
+BUILD=base16
 REPO=$(shell pwd)
 TEMPLATE=$(shell basename $(REPO))
 THEME_DIR=themes
-TEMPLATE_DIR=templates
+BASE16_DIR=$(REPO)/base16
+TEMP_DIR=$(BASE16_DIR)/templates/base16-pyradio
 OUTPUT=out
 
-all: update build
-
-update:
-	$(BUILD) update
+all: build
 
 build:
-	$(BUILD) build -t $(REPO) -o $(OUTPUT)
-	rm -rf $(THEME_DIR)
-	mv -f ${OUTPUT}/${TEMPLATE}/themes/ ${THEME_DIR}/
-	rm -rf ${OUTPUT} ${TEMPLATE_DIR}/*/
+	mkdir -p $(TEMP_DIR)
+	git clone https://github.com/base16-project/base16-schemes.git $(BASE16_DIR)/schemes
+	mv templates/ $(TEMP_DIR)
+	base16 build
+	mv $(TEMP_DIR)/templates $(REPO)
+	mv $(TEMP_DIR)/themes $(REPO)
+	rm -rf $(BASE16_DIR)
 	
