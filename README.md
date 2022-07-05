@@ -14,7 +14,7 @@ curl https://raw.githubusercontent.com/edunfelt/base16-pyradio/master/themes/bas
 
 ### Build themes
 #### Requirements
-- [base16-builder-python](https://github.com/InspectorMustache/base16-builder-python)
+- [base16-builder-node](https://github.com/base16-project/base16-builder-node)
 - [Make](https://www.gnu.org/software/make/)
 
 #### Instructions
