@@ -98,7 +98,7 @@ done
 Finally, make it executable:
 
 ```
-cmod +x ~/.local/bin/cycle_pyradio_themes
+chmod +x ~/.local/bin/cycle_pyradio_themes
 ```
 
 Obviously, you will have to use the file location you used when you created the file.
