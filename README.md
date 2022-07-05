@@ -19,6 +19,7 @@ curl https://raw.githubusercontent.com/edunfelt/base16-pyradio/master/themes/bas
 
 #### Instructions
 ```
+mkdir -p base16/templates && cd base16/templates
 git clone git@github.com:edunfelt/base16-pyradio.git
 cd base16-pyradio
 make
