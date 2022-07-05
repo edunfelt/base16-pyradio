@@ -25,7 +25,7 @@ Edit Cursor         #2f363d #fafbfc
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #ffd33d
+Extra Func          #0366d6
 
 # Text color for URL
 # (background color will come from Stations)
