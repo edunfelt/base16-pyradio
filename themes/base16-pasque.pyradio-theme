@@ -1,5 +1,5 @@
 # Base16 Pasque for pyradio
-# By Gabriel Fontes (https://github.com/Misterio77)
+# By Gabriel Fontes (https:&#x2F;&#x2F;github.com&#x2F;Misterio77)
 
 # Main foreground and background
 Stations            #DEDCDF #271C3A
@@ -20,7 +20,7 @@ Active Cursor       #271C3A #A92258
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #271C3A #8E7DC6
+Edit Cursor         #DEDCDF #271C3A
 
 # Text color for extra function indication
 # and jump numbers within the status bar

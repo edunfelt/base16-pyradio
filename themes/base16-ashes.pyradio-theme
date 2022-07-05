@@ -1,5 +1,5 @@
 # Base16 Ashes for pyradio
-# By Jannik Siebert (https://github.com/janniks)
+# By Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
 
 # Main foreground and background
 Stations            #C7CCD1 #1C2023
@@ -20,7 +20,7 @@ Active Cursor       #1C2023 #C7AE95
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #1C2023 #AE95C7
+Edit Cursor         #C7CCD1 #1C2023
 
 # Text color for extra function indication
 # and jump numbers within the status bar

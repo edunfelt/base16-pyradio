@@ -1,39 +1,39 @@
-# Base16 Solar Flare for pyradio
-# By Chuck Harmston (https://chuck.harmston.ch)
+# Base16 London Tube for pyradio
+# By Jan T. Sott
 
 # Main foreground and background
-Stations            #A6AFB8 #18262F
+Stations            #d9d8d8 #231f20
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #EF5253
+Active Station      #ee2e24
 
 # Status bar foreground and background
-Status Bar          #18262F #33B5E1
+Status Bar          #231f20 #009ddc
 
 # Normal cursor foreground and background
-Normal Cursor       #18262F #33B5E1
+Normal Cursor       #231f20 #009ddc
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #18262F #EF5253
+Active Cursor       #231f20 #ee2e24
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #18262F #33B5E1
+Edit Cursor         #d9d8d8 #231f20
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #E4B51C
+Extra Func          #ffd204
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #7CC844
+PyRadio URL         #00853e
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #667581
+Messages Border     #737171
 
 # Theme Transparency
 # Values are:

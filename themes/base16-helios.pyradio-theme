@@ -1,5 +1,5 @@
 # Base16 Helios for pyradio
-# By Alex Meyer (https://github.com/reyemxela)
+# By Alex Meyer (https:&#x2F;&#x2F;github.com&#x2F;reyemxela)
 
 # Main foreground and background
 Stations            #d5d5d5 #1d2021
@@ -20,7 +20,7 @@ Active Cursor       #1d2021 #d72638
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #1d2021 #1e8bac
+Edit Cursor         #d5d5d5 #1d2021
 
 # Text color for extra function indication
 # and jump numbers within the status bar

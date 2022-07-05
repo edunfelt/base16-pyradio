@@ -1,5 +1,5 @@
 # Base16 Spacemacs for pyradio
-# By Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+# By Nasser Alshammari (https:&#x2F;&#x2F;github.com&#x2F;nashamri&#x2F;spacemacs-theme)
 
 # Main foreground and background
 Stations            #a3a3a3 #1f2022
@@ -20,7 +20,7 @@ Active Cursor       #1f2022 #f2241f
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #1f2022 #4f97d7
+Edit Cursor         #a3a3a3 #1f2022
 
 # Text color for extra function indication
 # and jump numbers within the status bar

@@ -1,5 +1,5 @@
 # Base16 Decaf for pyradio
-# By Alex Mirrington (https://github.com/alexmirrington)
+# By Alex Mirrington (https:&#x2F;&#x2F;github.com&#x2F;alexmirrington)
 
 # Main foreground and background
 Stations            #cccccc #2d2d2d
@@ -20,7 +20,7 @@ Active Cursor       #2d2d2d #ff7f7b
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #2d2d2d #90bee1
+Edit Cursor         #cccccc #2d2d2d
 
 # Text color for extra function indication
 # and jump numbers within the status bar

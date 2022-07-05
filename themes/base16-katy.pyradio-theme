@@ -1,5 +1,5 @@
 # Base16 Katy for pyradio
-# By George Essig (https://github.com/gessig)
+# By George Essig (https:&#x2F;&#x2F;github.com&#x2F;gessig)
 
 # Main foreground and background
 Stations            #959dcb #292d3e
@@ -20,7 +20,7 @@ Active Cursor       #292d3e #6e98e1
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #292d3e #82aaff
+Edit Cursor         #959dcb #292d3e
 
 # Text color for extra function indication
 # and jump numbers within the status bar

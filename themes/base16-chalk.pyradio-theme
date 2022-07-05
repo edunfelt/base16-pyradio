@@ -1,5 +1,5 @@
 # Base16 Chalk for pyradio
-# By Chris Kempson (http://chriskempson.com)
+# By Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 # Main foreground and background
 Stations            #d0d0d0 #151515
@@ -20,7 +20,7 @@ Active Cursor       #151515 #fb9fb1
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #151515 #6fc2ef
+Edit Cursor         #d0d0d0 #151515
 
 # Text color for extra function indication
 # and jump numbers within the status bar

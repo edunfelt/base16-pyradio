@@ -1,5 +1,5 @@
 # Base16 Monokai for pyradio
-# By Wimer Hazenberg (http://www.monokai.nl)
+# By Wimer Hazenberg (http:&#x2F;&#x2F;www.monokai.nl)
 
 # Main foreground and background
 Stations            #f8f8f2 #272822
@@ -20,7 +20,7 @@ Active Cursor       #272822 #f92672
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #272822 #66d9ef
+Edit Cursor         #f8f8f2 #272822
 
 # Text color for extra function indication
 # and jump numbers within the status bar

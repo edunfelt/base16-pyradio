@@ -1,5 +1,5 @@
 # Base16 darkmoss for pyradio
-# By Gabriel Avanzi (https://github.com/avanzzzi)
+# By Gabriel Avanzi (https:&#x2F;&#x2F;github.com&#x2F;avanzzzi)
 
 # Main foreground and background
 Stations            #c7c7a5 #171e1f
@@ -20,7 +20,7 @@ Active Cursor       #171e1f #ff4658
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #171e1f #498091
+Edit Cursor         #c7c7a5 #171e1f
 
 # Text color for extra function indication
 # and jump numbers within the status bar

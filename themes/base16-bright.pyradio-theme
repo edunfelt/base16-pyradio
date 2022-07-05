@@ -1,5 +1,5 @@
 # Base16 Bright for pyradio
-# By Chris Kempson (http://chriskempson.com)
+# By Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 # Main foreground and background
 Stations            #e0e0e0 #000000
@@ -20,7 +20,7 @@ Active Cursor       #000000 #fb0120
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #000000 #6fb3d2
+Edit Cursor         #e0e0e0 #000000
 
 # Text color for extra function indication
 # and jump numbers within the status bar

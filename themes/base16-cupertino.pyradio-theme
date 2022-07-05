@@ -20,7 +20,7 @@ Active Cursor       #ffffff #c41a15
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #ffffff #0000ff
+Edit Cursor         #404040 #ffffff
 
 # Text color for extra function indication
 # and jump numbers within the status bar

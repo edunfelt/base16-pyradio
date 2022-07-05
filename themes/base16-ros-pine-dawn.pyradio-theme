@@ -1,39 +1,39 @@
-# Base16 Synth Midnight Terminal Light for pyradio
-# By Michaël Ball (http://github.com/michael-ball/)
+# Base16 Rosé Pine Dawn for pyradio
+# By Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
 
 # Main foreground and background
-Stations            #28292a #dddfe0
+Stations            #575279 #faf4ed
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #b53b50
+Active Station      #1f1d2e
 
 # Status bar foreground and background
-Status Bar          #dddfe0 #03aeff
+Status Bar          #faf4ed #56949f
 
 # Normal cursor foreground and background
-Normal Cursor       #dddfe0 #03aeff
+Normal Cursor       #faf4ed #56949f
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #dddfe0 #b53b50
+Active Cursor       #faf4ed #1f1d2e
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #dddfe0 #03aeff
+Edit Cursor         #575279 #faf4ed
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #c9d364
+Extra Func          #ea9d34
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #06ea61
+PyRadio URL         #d7827e
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #a3a5a6
+Messages Border     #9893a5
 
 # Theme Transparency
 # Values are:

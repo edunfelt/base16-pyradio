@@ -1,5 +1,5 @@
 # Base16 Edge Light for pyradio
-# By cjayross (https://github.com/cjayross)
+# By cjayross (https:&#x2F;&#x2F;github.com&#x2F;cjayross)
 
 # Main foreground and background
 Stations            #5e646f #fafafa
@@ -20,7 +20,7 @@ Active Cursor       #fafafa #db7070
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #fafafa #6587bf
+Edit Cursor         #5e646f #fafafa
 
 # Text color for extra function indication
 # and jump numbers within the status bar

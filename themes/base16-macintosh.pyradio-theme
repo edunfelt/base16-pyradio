@@ -1,5 +1,5 @@
 # Base16 Macintosh for pyradio
-# By Rebecca Bettencourt (http://www.kreativekorp.com)
+# By Rebecca Bettencourt (http:&#x2F;&#x2F;www.kreativekorp.com)
 
 # Main foreground and background
 Stations            #c0c0c0 #000000
@@ -20,7 +20,7 @@ Active Cursor       #000000 #dd0907
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #000000 #0000d3
+Edit Cursor         #c0c0c0 #000000
 
 # Text color for extra function indication
 # and jump numbers within the status bar

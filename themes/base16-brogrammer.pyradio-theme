@@ -1,5 +1,5 @@
 # Base16 Brogrammer for pyradio
-# By Vik Ramanujam (http://github.com/piggyslasher)
+# By Vik Ramanujam (http:&#x2F;&#x2F;github.com&#x2F;piggyslasher)
 
 # Main foreground and background
 Stations            #4e5ab7 #1f1f1f
@@ -20,7 +20,7 @@ Active Cursor       #1f1f1f #d6dbe5
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #1f1f1f #5350b9
+Edit Cursor         #4e5ab7 #1f1f1f
 
 # Text color for extra function indication
 # and jump numbers within the status bar

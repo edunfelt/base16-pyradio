@@ -1,5 +1,5 @@
 # Base16 Atelier Forest Light for pyradio
-# By Bram de Haan (http://atelierbramdehaan.nl)
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 # Main foreground and background
 Stations            #68615e #f1efee
@@ -20,7 +20,7 @@ Active Cursor       #f1efee #f22c40
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #f1efee #407ee7
+Edit Cursor         #68615e #f1efee
 
 # Text color for extra function indication
 # and jump numbers within the status bar

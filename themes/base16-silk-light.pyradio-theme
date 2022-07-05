@@ -1,5 +1,5 @@
 # Base16 Silk Light for pyradio
-# By Gabriel Fontes (https://github.com/Misterio77)
+# By Gabriel Fontes (https:&#x2F;&#x2F;github.com&#x2F;Misterio77)
 
 # Main foreground and background
 Stations            #385156 #E9F1EF
@@ -20,7 +20,7 @@ Active Cursor       #E9F1EF #CF432E
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #E9F1EF #39AAC9
+Edit Cursor         #385156 #E9F1EF
 
 # Text color for extra function indication
 # and jump numbers within the status bar

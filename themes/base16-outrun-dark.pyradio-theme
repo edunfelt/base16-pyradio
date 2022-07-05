@@ -1,5 +1,5 @@
 # Base16 Outrun Dark for pyradio
-# By Hugo Delahousse (http://github.com/hugodelahousse/)
+# By Hugo Delahousse (http:&#x2F;&#x2F;github.com&#x2F;hugodelahousse&#x2F;)
 
 # Main foreground and background
 Stations            #D0D0FA #00002A
@@ -20,7 +20,7 @@ Active Cursor       #00002A #FF4242
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #00002A #66B0FF
+Edit Cursor         #D0D0FA #00002A
 
 # Text color for extra function indication
 # and jump numbers within the status bar

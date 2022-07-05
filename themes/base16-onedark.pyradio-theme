@@ -1,5 +1,5 @@
 # Base16 OneDark for pyradio
-# By Lalit Magant (http://github.com/tilal6991)
+# By Lalit Magant (http:&#x2F;&#x2F;github.com&#x2F;tilal6991)
 
 # Main foreground and background
 Stations            #abb2bf #282c34
@@ -20,7 +20,7 @@ Active Cursor       #282c34 #e06c75
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #282c34 #61afef
+Edit Cursor         #abb2bf #282c34
 
 # Text color for extra function indication
 # and jump numbers within the status bar

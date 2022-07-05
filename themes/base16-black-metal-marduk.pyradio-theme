@@ -1,5 +1,5 @@
 # Base16 Black Metal (Marduk) for pyradio
-# By metalelf0 (https://github.com/metalelf0)
+# By metalelf0 (https:&#x2F;&#x2F;github.com&#x2F;metalelf0)
 
 # Main foreground and background
 Stations            #c1c1c1 #000000
@@ -20,7 +20,7 @@ Active Cursor       #000000 #5f8787
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #000000 #888888
+Edit Cursor         #c1c1c1 #000000
 
 # Text color for extra function indication
 # and jump numbers within the status bar

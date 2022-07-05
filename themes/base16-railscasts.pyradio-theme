@@ -1,5 +1,5 @@
 # Base16 Railscasts for pyradio
-# By Ryan Bates (http://railscasts.com)
+# By Ryan Bates (http:&#x2F;&#x2F;railscasts.com)
 
 # Main foreground and background
 Stations            #e6e1dc #2b2b2b
@@ -20,7 +20,7 @@ Active Cursor       #2b2b2b #da4939
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #2b2b2b #6d9cbe
+Edit Cursor         #e6e1dc #2b2b2b
 
 # Text color for extra function indication
 # and jump numbers within the status bar

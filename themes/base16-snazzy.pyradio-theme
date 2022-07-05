@@ -1,5 +1,5 @@
 # Base16 Snazzy for pyradio
-# By Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# By Chawye Hsu (https:&#x2F;&#x2F;github.com&#x2F;chawyehsu) based on Hyper Snazzy Theme (https:&#x2F;&#x2F;github.com&#x2F;sindresorhus&#x2F;hyper-snazzy)
 
 # Main foreground and background
 Stations            #e2e4e5 #282a36
@@ -20,7 +20,7 @@ Active Cursor       #282a36 #ff5c57
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #282a36 #57c7ff
+Edit Cursor         #e2e4e5 #282a36
 
 # Text color for extra function indication
 # and jump numbers within the status bar

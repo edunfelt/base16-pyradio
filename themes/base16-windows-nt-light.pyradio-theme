@@ -1,5 +1,5 @@
 # Base16 Windows NT Light for pyradio
-# By Fergus Collins (https://github.com/C-Fergus)
+# By Fergus Collins (https:&#x2F;&#x2F;github.com&#x2F;C-Fergus)
 
 # Main foreground and background
 Stations            #808080 #ffffff
@@ -20,7 +20,7 @@ Active Cursor       #ffffff #800000
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #ffffff #000080
+Edit Cursor         #808080 #ffffff
 
 # Text color for extra function indication
 # and jump numbers within the status bar

@@ -1,5 +1,5 @@
 # Base16 Sakura for pyradio
-# By Misterio77 (http://github.com/Misterio77)
+# By Misterio77 (http:&#x2F;&#x2F;github.com&#x2F;Misterio77)
 
 # Main foreground and background
 Stations            #564448 #feedf3
@@ -20,7 +20,7 @@ Active Cursor       #feedf3 #df2d52
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #feedf3 #006e93
+Edit Cursor         #564448 #feedf3
 
 # Text color for extra function indication
 # and jump numbers within the status bar

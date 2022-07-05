@@ -1,5 +1,5 @@
 # Base16 Twilight for pyradio
-# By David Hart (https://github.com/hartbit)
+# By David Hart (https:&#x2F;&#x2F;github.com&#x2F;hartbit)
 
 # Main foreground and background
 Stations            #a7a7a7 #1e1e1e
@@ -20,7 +20,7 @@ Active Cursor       #1e1e1e #cf6a4c
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #1e1e1e #7587a6
+Edit Cursor         #a7a7a7 #1e1e1e
 
 # Text color for extra function indication
 # and jump numbers within the status bar

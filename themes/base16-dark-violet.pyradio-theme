@@ -1,39 +1,39 @@
-# Base16 Rosé Pine Moon for pyradio
-# By Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Base16 Dark Violet for pyradio
+# By ruler501 (https:&#x2F;&#x2F;github.com&#x2F;ruler501&#x2F;base16-darkviolet)
 
 # Main foreground and background
-Stations            #e0def4 #232136
+Stations            #b08ae6 #000000
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #ecebf0
+Active Station      #a82ee6
 
 # Status bar foreground and background
-Status Bar          #232136 #9ccfd8
+Status Bar          #000000 #4136d9
 
 # Normal cursor foreground and background
-Normal Cursor       #232136 #9ccfd8
+Normal Cursor       #000000 #4136d9
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #232136 #ecebf0
+Active Cursor       #000000 #a82ee6
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #232136 #9ccfd8
+Edit Cursor         #b08ae6 #000000
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #f6c177
+Extra Func          #f29df2
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #ea9a97
+PyRadio URL         #4595e6
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #59546d
+Messages Border     #593380
 
 # Theme Transparency
 # Values are:

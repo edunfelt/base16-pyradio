@@ -1,5 +1,5 @@
 # Base16 Shades of Purple for pyradio
-# By Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+# By Iolar Demartini Junior (http:&#x2F;&#x2F;github.com&#x2F;demartini) based on Shades of Purple Theme (https:&#x2F;&#x2F;github.com&#x2F;ahmadawais&#x2F;shades-of-purple-vscode).
 
 # Main foreground and background
 Stations            #c7c7c7 #1e1e3f
@@ -20,7 +20,7 @@ Active Cursor       #1e1e3f #d90429
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #1e1e3f #6943ff
+Edit Cursor         #c7c7c7 #1e1e3f
 
 # Text color for extra function indication
 # and jump numbers within the status bar

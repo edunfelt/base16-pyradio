@@ -1,5 +1,5 @@
 # Base16 Google Light for pyradio
-# By Seth Wright (http://sethawright.com)
+# By Seth Wright (http:&#x2F;&#x2F;sethawright.com)
 
 # Main foreground and background
 Stations            #373b41 #ffffff
@@ -20,7 +20,7 @@ Active Cursor       #ffffff #CC342B
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #ffffff #3971ED
+Edit Cursor         #373b41 #ffffff
 
 # Text color for extra function indication
 # and jump numbers within the status bar

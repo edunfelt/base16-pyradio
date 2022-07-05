@@ -1,5 +1,5 @@
 # Base16 Gruvbox Material Dark, Medium for pyradio
-# By Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# By Mayush Kumar (https:&#x2F;&#x2F;github.com&#x2F;MayushKumar), sainnhe (https:&#x2F;&#x2F;github.com&#x2F;sainnhe&#x2F;gruvbox-material-vscode)
 
 # Main foreground and background
 Stations            #ddc7a1 #292828
@@ -20,7 +20,7 @@ Active Cursor       #292828 #ea6962
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #292828 #7daea3
+Edit Cursor         #ddc7a1 #292828
 
 # Text color for extra function indication
 # and jump numbers within the status bar

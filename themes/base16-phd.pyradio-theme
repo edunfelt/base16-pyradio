@@ -1,5 +1,5 @@
 # Base16 PhD for pyradio
-# By Hennig Hasemann (http://leetless.de/vim.html)
+# By Hennig Hasemann (http:&#x2F;&#x2F;leetless.de&#x2F;vim.html)
 
 # Main foreground and background
 Stations            #b8bbc2 #061229
@@ -20,7 +20,7 @@ Active Cursor       #061229 #d07346
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #061229 #5299bf
+Edit Cursor         #b8bbc2 #061229
 
 # Text color for extra function indication
 # and jump numbers within the status bar

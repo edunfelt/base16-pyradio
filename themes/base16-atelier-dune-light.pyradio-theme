@@ -1,5 +1,5 @@
 # Base16 Atelier Dune Light for pyradio
-# By Bram de Haan (http://atelierbramdehaan.nl)
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 # Main foreground and background
 Stations            #6e6b5e #fefbec
@@ -20,7 +20,7 @@ Active Cursor       #fefbec #d73737
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #fefbec #6684e1
+Edit Cursor         #6e6b5e #fefbec
 
 # Text color for extra function indication
 # and jump numbers within the status bar

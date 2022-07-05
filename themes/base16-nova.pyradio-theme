@@ -1,5 +1,5 @@
 # Base16 Nova for pyradio
-# By George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# By George Essig (https:&#x2F;&#x2F;github.com&#x2F;gessig), Trevor D. Miller (https:&#x2F;&#x2F;trevordmiller.com)
 
 # Main foreground and background
 Stations            #C5D4DD #3C4C55
@@ -20,7 +20,7 @@ Active Cursor       #3C4C55 #83AFE5
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #3C4C55 #83AFE5
+Edit Cursor         #C5D4DD #3C4C55
 
 # Text color for extra function indication
 # and jump numbers within the status bar

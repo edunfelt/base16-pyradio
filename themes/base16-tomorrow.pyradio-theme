@@ -1,5 +1,5 @@
 # Base16 Tomorrow for pyradio
-# By Chris Kempson (http://chriskempson.com)
+# By Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 # Main foreground and background
 Stations            #4d4d4c #ffffff
@@ -20,7 +20,7 @@ Active Cursor       #ffffff #c82829
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #ffffff #4271ae
+Edit Cursor         #4d4d4c #ffffff
 
 # Text color for extra function indication
 # and jump numbers within the status bar

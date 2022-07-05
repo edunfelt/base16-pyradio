@@ -1,39 +1,39 @@
-# Base16 Windows High Contrast Light for pyradio
-# By Fergus Collins (https://github.com/C-Fergus)
+# Base16 Rosé Pine for pyradio
+# By Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
 
 # Main foreground and background
-Stations            #545454 #fcfcfc
+Stations            #e0def4 #191724
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #800000
+Active Station      #e2e1e7
 
 # Status bar foreground and background
-Status Bar          #fcfcfc #000080
+Status Bar          #191724 #9ccfd8
 
 # Normal cursor foreground and background
-Normal Cursor       #fcfcfc #000080
+Normal Cursor       #191724 #9ccfd8
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #fcfcfc #800000
+Active Cursor       #191724 #e2e1e7
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #fcfcfc #000080
+Edit Cursor         #e0def4 #191724
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #808000
+Extra Func          #f6c177
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #008000
+PyRadio URL         #ebbcba
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #c0c0c0
+Messages Border     #555169
 
 # Theme Transparency
 # Values are:

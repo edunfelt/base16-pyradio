@@ -1,5 +1,5 @@
 # Base16 Da One Paper for pyradio
-# By NNB (https://github.com/NNBnh)
+# By NNB (https:&#x2F;&#x2F;github.com&#x2F;NNBnh)
 
 # Main foreground and background
 Stations            #181818 #faf0dc
@@ -20,7 +20,7 @@ Active Cursor       #faf0dc #de5d6e
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #faf0dc #5890f8
+Edit Cursor         #181818 #faf0dc
 
 # Text color for extra function indication
 # and jump numbers within the status bar

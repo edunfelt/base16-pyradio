@@ -1,5 +1,5 @@
 # Base16 Sandcastle for pyradio
-# By George Essig (https://github.com/gessig)
+# By George Essig (https:&#x2F;&#x2F;github.com&#x2F;gessig)
 
 # Main foreground and background
 Stations            #a89984 #282c34
@@ -20,7 +20,7 @@ Active Cursor       #282c34 #83a598
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #282c34 #83a598
+Edit Cursor         #a89984 #282c34
 
 # Text color for extra function indication
 # and jump numbers within the status bar

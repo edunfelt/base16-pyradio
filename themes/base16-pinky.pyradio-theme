@@ -1,5 +1,5 @@
 # Base16 pinky for pyradio
-# By Benjamin (https://github.com/b3nj5m1n)
+# By Benjamin (https:&#x2F;&#x2F;github.com&#x2F;b3nj5m1n)
 
 # Main foreground and background
 Stations            #f5f5f5 #171517
@@ -20,7 +20,7 @@ Active Cursor       #171517 #ffa600
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #171517 #00ffff
+Edit Cursor         #f5f5f5 #171517
 
 # Text color for extra function indication
 # and jump numbers within the status bar

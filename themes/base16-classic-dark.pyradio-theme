@@ -1,5 +1,5 @@
 # Base16 Classic Dark for pyradio
-# By Jason Heeris (http://heeris.id.au)
+# By Jason Heeris (http:&#x2F;&#x2F;heeris.id.au)
 
 # Main foreground and background
 Stations            #D0D0D0 #151515
@@ -20,7 +20,7 @@ Active Cursor       #151515 #AC4142
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #151515 #6A9FB5
+Edit Cursor         #D0D0D0 #151515
 
 # Text color for extra function indication
 # and jump numbers within the status bar

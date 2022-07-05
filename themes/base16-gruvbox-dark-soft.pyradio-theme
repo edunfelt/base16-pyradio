@@ -1,5 +1,5 @@
 # Base16 Gruvbox dark, soft for pyradio
-# By Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# By Dawid Kurek (dawikur@gmail.com), morhetz (https:&#x2F;&#x2F;github.com&#x2F;morhetz&#x2F;gruvbox)
 
 # Main foreground and background
 Stations            #d5c4a1 #32302f
@@ -20,7 +20,7 @@ Active Cursor       #32302f #fb4934
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #32302f #83a598
+Edit Cursor         #d5c4a1 #32302f
 
 # Text color for extra function indication
 # and jump numbers within the status bar

@@ -1,39 +1,39 @@
-# Base16 Dark Violet for pyradio
-# By ruler501 (https://github.com/ruler501/base16-darkviolet)
+# Base16 Seti UI for pyradio
+# By 
 
 # Main foreground and background
-Stations            #b08ae6 #000000
+Stations            #d6d6d6 #151718
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #a82ee6
+Active Station      #Cd3f45
 
 # Status bar foreground and background
-Status Bar          #000000 #4136d9
+Status Bar          #151718 #55b5db
 
 # Normal cursor foreground and background
-Normal Cursor       #000000 #4136d9
+Normal Cursor       #151718 #55b5db
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #000000 #a82ee6
+Active Cursor       #151718 #Cd3f45
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #000000 #4136d9
+Edit Cursor         #d6d6d6 #151718
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #f29df2
+Extra Func          #e6cd69
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #4595e6
+PyRadio URL         #9fca56
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #593380
+Messages Border     #41535B
 
 # Theme Transparency
 # Values are:

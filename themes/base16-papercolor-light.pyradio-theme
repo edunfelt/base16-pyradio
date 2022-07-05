@@ -1,5 +1,5 @@
 # Base16 PaperColor Light for pyradio
-# By Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# By Jon Leopard (http:&#x2F;&#x2F;github.com&#x2F;jonleopard) based on PaperColor Theme (https:&#x2F;&#x2F;github.com&#x2F;NLKNguyen&#x2F;papercolor-theme)
 
 # Main foreground and background
 Stations            #444444 #eeeeee
@@ -20,7 +20,7 @@ Active Cursor       #eeeeee #bcbcbc
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #eeeeee #d75f00
+Edit Cursor         #444444 #eeeeee
 
 # Text color for extra function indication
 # and jump numbers within the status bar

@@ -1,5 +1,5 @@
 # Base16 Kimber for pyradio
-# By Mishka Nguyen (https://github.com/akhsiM)
+# By Mishka Nguyen (https:&#x2F;&#x2F;github.com&#x2F;akhsiM)
 
 # Main foreground and background
 Stations            #DEDEE7 #222222
@@ -20,7 +20,7 @@ Active Cursor       #222222 #C88C8C
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #222222 #537C9C
+Edit Cursor         #DEDEE7 #222222
 
 # Text color for extra function indication
 # and jump numbers within the status bar

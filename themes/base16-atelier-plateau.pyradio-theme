@@ -1,5 +1,5 @@
 # Base16 Atelier Plateau for pyradio
-# By Bram de Haan (http://atelierbramdehaan.nl)
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 # Main foreground and background
 Stations            #8a8585 #1b1818
@@ -20,7 +20,7 @@ Active Cursor       #1b1818 #ca4949
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #1b1818 #7272ca
+Edit Cursor         #8a8585 #1b1818
 
 # Text color for extra function indication
 # and jump numbers within the status bar

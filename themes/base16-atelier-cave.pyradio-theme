@@ -1,5 +1,5 @@
 # Base16 Atelier Cave for pyradio
-# By Bram de Haan (http://atelierbramdehaan.nl)
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 # Main foreground and background
 Stations            #8b8792 #19171c
@@ -20,7 +20,7 @@ Active Cursor       #19171c #be4678
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #19171c #576ddb
+Edit Cursor         #8b8792 #19171c
 
 # Text color for extra function indication
 # and jump numbers within the status bar

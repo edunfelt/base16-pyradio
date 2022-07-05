@@ -1,5 +1,5 @@
 # Base16 Gruber for pyradio
-# By Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+# By Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com&#x2F;rexim&#x2F;gruber-darker-theme
 
 # Main foreground and background
 Stations            #f4f4ff #181818
@@ -20,7 +20,7 @@ Active Cursor       #181818 #f43841
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #181818 #96a6c8
+Edit Cursor         #f4f4ff #181818
 
 # Text color for extra function indication
 # and jump numbers within the status bar

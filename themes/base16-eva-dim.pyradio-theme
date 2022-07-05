@@ -1,5 +1,5 @@
 # Base16 Eva Dim for pyradio
-# By kjakapat (https://github.com/kjakapat)
+# By kjakapat (https:&#x2F;&#x2F;github.com&#x2F;kjakapat)
 
 # Main foreground and background
 Stations            #9fa2a6 #2a3b4d
@@ -20,7 +20,7 @@ Active Cursor       #2a3b4d #c4676c
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #2a3b4d #1ae1dc
+Edit Cursor         #9fa2a6 #2a3b4d
 
 # Text color for extra function indication
 # and jump numbers within the status bar

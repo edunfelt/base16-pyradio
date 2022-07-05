@@ -1,5 +1,5 @@
 # Base16 Tokyodark Terminal for pyradio
-# By Tiagovla (https://github.com/tiagovla/)
+# By Tiagovla (https:&#x2F;&#x2F;github.com&#x2F;tiagovla&#x2F;)
 
 # Main foreground and background
 Stations            #a0a8cd #11121d
@@ -20,7 +20,7 @@ Active Cursor       #11121d #ee6d85
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #11121d #7199ee
+Edit Cursor         #a0a8cd #11121d
 
 # Text color for extra function indication
 # and jump numbers within the status bar

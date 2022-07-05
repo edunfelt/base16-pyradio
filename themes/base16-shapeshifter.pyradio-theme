@@ -1,5 +1,5 @@
 # Base16 Shapeshifter for pyradio
-# By Tyler Benziger (http://tybenz.com)
+# By Tyler Benziger (http:&#x2F;&#x2F;tybenz.com)
 
 # Main foreground and background
 Stations            #102015 #f9f9f9
@@ -20,7 +20,7 @@ Active Cursor       #f9f9f9 #e92f2f
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #f9f9f9 #3b48e3
+Edit Cursor         #102015 #f9f9f9
 
 # Text color for extra function indication
 # and jump numbers within the status bar

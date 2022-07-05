@@ -1,5 +1,5 @@
 # Base16 ShadeSmear Light for pyradio
-# By Kyle Giammarco (http://kyle.giammar.co)
+# By Kyle Giammarco (http:&#x2F;&#x2F;kyle.giammar.co)
 
 # Main foreground and background
 Stations            #232323 #DBDBDB
@@ -20,7 +20,7 @@ Active Cursor       #DBDBDB #CC5450
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #DBDBDB #376388
+Edit Cursor         #232323 #DBDBDB
 
 # Text color for extra function indication
 # and jump numbers within the status bar

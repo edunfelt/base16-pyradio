@@ -1,39 +1,39 @@
-# Base16 London Tube for pyradio
-# By Jan T. Sott
+# Base16 Windows High Contrast Light for pyradio
+# By Fergus Collins (https:&#x2F;&#x2F;github.com&#x2F;C-Fergus)
 
 # Main foreground and background
-Stations            #d9d8d8 #231f20
+Stations            #545454 #fcfcfc
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #ee2e24
+Active Station      #800000
 
 # Status bar foreground and background
-Status Bar          #231f20 #009ddc
+Status Bar          #fcfcfc #000080
 
 # Normal cursor foreground and background
-Normal Cursor       #231f20 #009ddc
+Normal Cursor       #fcfcfc #000080
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #231f20 #ee2e24
+Active Cursor       #fcfcfc #800000
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #231f20 #009ddc
+Edit Cursor         #545454 #fcfcfc
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #ffd204
+Extra Func          #808000
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #00853e
+PyRadio URL         #008000
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #737171
+Messages Border     #c0c0c0
 
 # Theme Transparency
 # Values are:

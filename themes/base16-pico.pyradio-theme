@@ -1,5 +1,5 @@
 # Base16 Pico for pyradio
-# By PICO-8 (http://www.lexaloffle.com/pico-8.php)
+# By PICO-8 (http:&#x2F;&#x2F;www.lexaloffle.com&#x2F;pico-8.php)
 
 # Main foreground and background
 Stations            #5f574f #000000
@@ -20,7 +20,7 @@ Active Cursor       #000000 #ff004d
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #000000 #83769c
+Edit Cursor         #5f574f #000000
 
 # Text color for extra function indication
 # and jump numbers within the status bar

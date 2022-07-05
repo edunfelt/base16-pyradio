@@ -20,7 +20,7 @@ Active Cursor       #131213 #b00b69
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #131213 #008080
+Edit Cursor         #f15c99 #131213
 
 # Text color for extra function indication
 # and jump numbers within the status bar

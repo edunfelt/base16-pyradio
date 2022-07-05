@@ -1,5 +1,5 @@
 # Base16 Atelier Estuary for pyradio
-# By Bram de Haan (http://atelierbramdehaan.nl)
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 # Main foreground and background
 Stations            #929181 #22221b
@@ -20,7 +20,7 @@ Active Cursor       #22221b #ba6236
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #22221b #36a166
+Edit Cursor         #929181 #22221b
 
 # Text color for extra function indication
 # and jump numbers within the status bar

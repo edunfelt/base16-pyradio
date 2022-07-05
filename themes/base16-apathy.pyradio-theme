@@ -1,5 +1,5 @@
 # Base16 Apathy for pyradio
-# By Jannik Siebert (https://github.com/janniks)
+# By Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
 
 # Main foreground and background
 Stations            #81B5AC #031A16
@@ -20,7 +20,7 @@ Active Cursor       #031A16 #3E9688
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #031A16 #96883E
+Edit Cursor         #81B5AC #031A16
 
 # Text color for extra function indication
 # and jump numbers within the status bar
