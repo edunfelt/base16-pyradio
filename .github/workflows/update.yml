@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: Install base16
-        run: npm install base16-builder-node
+        run: npm install -g base16-builder-node
       - name: Fetch the repository code
         uses: actions/checkout@v2
       - name: Run make
