@@ -81,7 +81,7 @@ do
     COUNT=1
     for n in *.pyradio-theme
     do
-        if [ -e "$n" ]
+        if [ -s "$n" ]
         then
             printf '%3s/%s. ' $COUNT $ALL
             echo ${n/.*/}
