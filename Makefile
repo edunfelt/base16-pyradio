@@ -12,5 +12,5 @@ update:
 	git clone https://github.com/base16-project/base16-schemes.git $(BASE16_DIR)/schemes
 
 build:
-	cd ../../.. && $(BUILD) build
+	cd ../../.. && $(BUILD) build base16 --prefix base16-
 	
