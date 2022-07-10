@@ -14,6 +14,8 @@ jobs:
         uses: actions/setup-node@v3.3.0
       - name: Install base16
         run: npm install -g base16-builder-node
+      - name: Set up directories
+        run: mkdir -p base16/templates && cd base16/templates
       - name: Fetch the repository code
         uses: actions/checkout@v2
       - name: Run make
