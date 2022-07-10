@@ -9,15 +9,9 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [10.x, 12.x, 14.x, 15.x]
-
     steps:
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.3.0}
       - name: Install base16
         run: npm install -g base16-builder-node
       - name: Fetch the repository code
