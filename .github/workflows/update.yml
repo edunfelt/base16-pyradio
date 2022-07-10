@@ -1,11 +1,13 @@
-# Adapted from base16-qutebrowser:
-# https://github.com/theova/base16-qutebrowser/blob/main/.github/workflows/update.yml
-
 name: Build the latest base16 colorschemes
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0" # https://crontab.guru/every-week
+
+env:
+  REPO: base16/templates/base16-pyradio
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -13,15 +15,18 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.3.0
       - name: Install base16
-        run: npm install -g base16-builder-node
-      - name: Set up directories
-        run: mkdir -p base16/templates && cd base16/templates
+        run: npm install --location=global base16-builder-node
+      - name: Set up templates dir
+        run: mkdir -p base16/templates
       - name: Fetch the repository code
         uses: actions/checkout@v2
+        with:
+          path: ${{env.REPO}}
       - name: Run make
-        run: make
-      - name: Commit the changes, if any
+        run: cd ${{env.REPO}} && make
+      - name: Commit the changes
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:
           commit_message: Build the latest base16 colorschemes
           branch: ${{ github.head_ref }}
+          repository: ${{env.REPO}}
