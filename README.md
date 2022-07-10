@@ -54,15 +54,15 @@ Contributions are welcome and greatly appreciated!
 
 ## Using the themes without base16
 
-The best way to use the themes is to install and set up [base16-shell](https://github.com/base16-project/base16-shell), but this is not mandatory.
+The best way to use the themes is to install and set up [base16-shell](https://github.com/base16-project/base16-shell), (in which case no theme installation is necessary), but this is not mandatory.
 
-To use the themes one would just have to clone this repo (or download the zip file), and copy the themes to `~/.config/pyradio/themes`.
+To use the themes (without installing and using **base16-shell**) one would just have to clone this repo (or download the zip file), and copy the themes to `~/.config/pyradio/themes`.
 
 One might just want to test the themes, by copying one of the directories to `~/.config/pyradio/themes`, for example
 
     cp themes-2/* ~/.config/pyradio/themes
 
-to "install" and test the second set ot the themes (first alternative set).
+to "install" and test the second set of the themes (first alternative set).
 
 Consecutive use of this command (using a different source directory) will just overwrite any previously copied themes.
 
