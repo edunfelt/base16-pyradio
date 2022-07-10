@@ -10,6 +10,7 @@ Active Station      #ff662a
 
 # Status bar foreground and background
 Status Bar          #1a1a2f #2b926f
+Status Bar          #1a1a2f #8cd97c
 
 # Normal cursor foreground and background
 Normal Cursor       #1a1a2f #2b926f

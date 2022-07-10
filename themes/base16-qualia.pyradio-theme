@@ -10,6 +10,7 @@ Active Station      #EFA6A2
 
 # Status bar foreground and background
 Status Bar          #101010 #50CACD
+Status Bar          #101010 #80C990
 
 # Normal cursor foreground and background
 Normal Cursor       #101010 #50CACD

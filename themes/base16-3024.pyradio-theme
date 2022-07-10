@@ -10,6 +10,7 @@ Active Station      #db2d20
 
 # Status bar foreground and background
 Status Bar          #090300 #01a0e4
+Status Bar          #090300 #01a252
 
 # Normal cursor foreground and background
 Normal Cursor       #090300 #01a0e4

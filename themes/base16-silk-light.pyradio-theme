@@ -10,6 +10,7 @@ Active Station      #CF432E
 
 # Status bar foreground and background
 Status Bar          #E9F1EF #39AAC9
+Status Bar          #E9F1EF #6CA38C
 
 # Normal cursor foreground and background
 Normal Cursor       #E9F1EF #39AAC9

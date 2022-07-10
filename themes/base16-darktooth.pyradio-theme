@@ -10,6 +10,7 @@ Active Station      #FB543F
 
 # Status bar foreground and background
 Status Bar          #1D2021 #0D6678
+Status Bar          #1D2021 #95C085
 
 # Normal cursor foreground and background
 Normal Cursor       #1D2021 #0D6678
