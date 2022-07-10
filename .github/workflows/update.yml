@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Node.js environment
-        uses: actions/setup-node@v3.3.0}
+        uses: actions/setup-node@v3.3.0
       - name: Install base16
         run: npm install -g base16-builder-node
       - name: Fetch the repository code
