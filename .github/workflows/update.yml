@@ -17,13 +17,13 @@ jobs:
       - name: Install base16
         run: npm install --location=global base16-builder-node
       - name: Set up directories
-        run: mkdir -p base16/templates && cd base16/templates
+        run: mkdir -p base16/templates
       - name: Fetch the repository code
         uses: actions/checkout@v2
         with:
           path: 'base16/templates'
       - name: Run make
-        run: make
+        run: cd base16/templates/base16-pyradio && make
       - name: Commit the changes, if any
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:
