@@ -1,12 +1,12 @@
-# Adapted from base16-qutebrowser:
-# https://github.com/theova/base16-qutebrowser/blob/main/.github/workflows/update.yml
-
 name: Build the latest base16 colorschemes
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0" # https://crontab.guru/every-week
+
+env:
+  REPO: 'base16/templates/base16-pyradio'
 
 jobs:
   run:
@@ -16,16 +16,17 @@ jobs:
         uses: actions/setup-node@v3.3.0
       - name: Install base16
         run: npm install --location=global base16-builder-node
-      - name: Set up directories
+      - name: Set up templates dir
         run: mkdir -p base16/templates
       - name: Fetch the repository code
         uses: actions/checkout@v2
         with:
-          path: 'base16/templates/base16-pyradio'
+          path: $REPO
       - name: Run make
-        run: cd base16/templates/base16-pyradio && make
-      - name: Commit the changes, if any
+        run: cd $REPO && make
+      - name: Commit the changes
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:
           commit_message: Build the latest base16 colorschemes
           branch: ${{ github.head_ref }}
+          repository: $REPO
