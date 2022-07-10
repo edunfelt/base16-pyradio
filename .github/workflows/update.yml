@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * 0" # https://crontab.guru/every-week
 
 env:
-  REPO: 'base16/templates/base16-pyradio'
+  REPO: base16/templates/base16-pyradio
 
 jobs:
   run:
@@ -21,12 +21,12 @@ jobs:
       - name: Fetch the repository code
         uses: actions/checkout@v2
         with:
-          path: $REPO
+          path: ${{env.REPO}}
       - name: Run make
-        run: cd $REPO && make
+        run: cd ${{env.REPO}} && make
       - name: Commit the changes
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:
           commit_message: Build the latest base16 colorschemes
           branch: ${{ github.head_ref }}
-          repository: $REPO
+          repository: ${{env.REPO}}
