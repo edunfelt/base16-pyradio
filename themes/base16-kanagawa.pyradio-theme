@@ -7,13 +7,13 @@ Stations            #DCD7BA #1F1F28
 # Playing station text color
 # (background color will come from Stations)
 Active Station      #C34043
-Active Station      #76946A
 
 # Status bar foreground and background
 Status Bar          #1F1F28 #7E9CD8
 
 # Normal cursor foreground and background
 Normal Cursor       #1F1F28 #7E9CD8
+Normal Cursor       #1F1F28 #76946A
 
 # Cursor foreground and background
 # when cursor on playing station
@@ -31,7 +31,6 @@ Extra Func          #C34043
 # Text color for URL
 # (background color will come from Stations)
 PyRadio URL         #76946A
-PyRadio URL         #C34043
 
 # Message window borser foreground
 # (background color will come from Stations)
