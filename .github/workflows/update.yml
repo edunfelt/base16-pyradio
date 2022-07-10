@@ -2,10 +2,12 @@
 # https://github.com/theova/base16-qutebrowser/blob/main/.github/workflows/update.yml
 
 name: Build the latest base16 colorschemes
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0" # https://crontab.guru/every-week
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -13,11 +15,13 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.3.0
       - name: Install base16
-        run: npm install -g base16-builder-node
+        run: npm install --location=global base16-builder-node
       - name: Set up directories
         run: mkdir -p base16/templates && cd base16/templates
       - name: Fetch the repository code
         uses: actions/checkout@v2
+        with:
+          path: 'base16/templates'
       - name: Run make
         run: make
       - name: Commit the changes, if any
