@@ -1,7 +1,9 @@
 # base16-pyradio
-This repo contains a set of theme files and templates for internet radio player [pyradio](https://github.com/coderholic/pyradio) meant to work with any [base16 builder](https://github.com/base16-project/base16).
+This repo contains 4 sets of theme files and templates for internet radio player [pyradio](https://github.com/coderholic/pyradio) meant to work with any [base16 builder](https://github.com/base16-project/base16).
 
 Prebuilt themes have been built using [base16-builder-node](https://github.com/base16-project/base16-builder-node), and can be found in the `themes/` directory. For detailed build and installation instructions, see [Installation](#installation).
+
+The `themes` directory contains the main themes. The numbered directories (`themes-1`, etc.) contain alternative themes (variations of the main ones)
 
 ## Installation
 ### Install a theme
@@ -48,6 +50,53 @@ Contributions are welcome and greatly appreciated!
 **solarized-dark**
 
 ![solarized-dark](assets/solarized.png)
+
+
+## Using the themes without base16
+
+The best way to use the themes is to install and set up [base16-shell](https://github.com/base16-project/base16-shell), but this is not mandatory.
+
+To use the themes one would just have to clone this repo (or download the zip file), and copy the themes to `~/.config/pyradio/themes`.
+
+One might just want to test the themes, by copying one of the directories to `~/.config/pyradio/themes`, for example
+
+    cp themes-2/* ~/.config/pyradio/themes
+
+to "install" and test the second set ot the themes (first alternative set).
+
+Consecutive use of this command (using a different source directory) will just overwrite any previously copied themes.
+
+To copy all the themes, just use the following script.
+
+**Notice:** this will copy more than *950 files* in the target directory... You've been warned...
+
+**copy-themes**
+```
+#!/bin/bash
+if [ ! -d themes ]
+then
+    echo "Please use this script within the base16-pyradio directory"
+    exit 1
+fi
+
+TARGET=~/.config/pyradio/themes
+mkdir -p "${TARGET}"
+
+# copy main themes
+\cp themes/* "${TARGET}"
+
+for ADIR in {1,2,3}
+do
+    cd themes-${ADIR}
+    for AFILE in *
+    do
+        \cp "${AFILE}"  "${TARGET}/${AFILE/.pyradio-theme/-$ADIR.pyradio-theme}"
+    done
+    cd ..
+done
+
+echo "All themes copyied to: ${TARGET}"
+```
 
 
 ## Cycling through the themes
