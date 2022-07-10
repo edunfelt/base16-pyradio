@@ -1,0 +1,43 @@
+# Base16 Ashes for pyradio
+# By Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
+
+# Main foreground and background
+Stations            #C7CCD1 #1C2023
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #95C7AE
+
+# Status bar foreground and background
+Status Bar          #1C2023 #C7AE95
+
+# Normal cursor foreground and background
+Normal Cursor       #1C2023 #C7AE95
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1C2023 #95C7AE
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #1C2023 #C7CCD1
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #95C7AE
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #C7CCD1
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #747C84
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Circus for pyradio
+# By Stephan Boyer (https:&#x2F;&#x2F;github.com&#x2F;stepchowfun) and Esther Wang (https:&#x2F;&#x2F;github.com&#x2F;ewang12)
+
+# Main foreground and background
+Stations            #a7a7a7 #191919
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #dc657d
+
+# Status bar foreground and background
+Status Bar          #191919 #84b97c
+
+# Normal cursor foreground and background
+Normal Cursor       #191919 #84b97c
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #191919 #dc657d
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #191919 #a7a7a7
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #dc657d
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #a7a7a7
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #5f5a60
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

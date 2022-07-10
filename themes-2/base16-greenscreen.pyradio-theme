@@ -1,0 +1,43 @@
+# Base16 Green Screen for pyradio
+# By Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+
+# Main foreground and background
+Stations            #00bb00 #001100
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #007700
+
+# Status bar foreground and background
+Status Bar          #001100 #00bb00
+
+# Normal cursor foreground and background
+Normal Cursor       #001100 #00bb00
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #001100 #007700
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #001100 #00bb00
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #007700
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #00bb00
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #007700
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Atelier Savanna Light for pyradio
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+
+# Main foreground and background
+Stations            #526057 #ecf4ee
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #b16139
+
+# Status bar foreground and background
+Status Bar          #ecf4ee #489963
+
+# Normal cursor foreground and background
+Normal Cursor       #ecf4ee #489963
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #ecf4ee #b16139
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #ecf4ee #526057
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #b16139
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #526057
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #78877d
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

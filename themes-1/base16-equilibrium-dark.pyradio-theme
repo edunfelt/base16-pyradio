@@ -1,0 +1,44 @@
+# Base16 Equilibrium Dark for pyradio
+# By Carlo Abelli
+
+# Main foreground and background
+Stations            #afaba2 #0c1118
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #008dd1
+
+# Status bar foreground and background
+Status Bar          #0c1118 #f04339
+
+# Normal cursor foreground and background
+Normal Cursor       #0c1118 #f04339
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #0c1118 #008dd1
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #afaba2 #0c1118
+Edit Cursor         #0c1118 #afaba2
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #008dd1
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #7f8b00
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #7b776e
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

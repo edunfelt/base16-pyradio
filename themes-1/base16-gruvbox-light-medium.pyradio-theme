@@ -1,0 +1,44 @@
+# Base16 Gruvbox light, medium for pyradio
+# By Dawid Kurek (dawikur@gmail.com), morhetz (https:&#x2F;&#x2F;github.com&#x2F;morhetz&#x2F;gruvbox)
+
+# Main foreground and background
+Stations            #504945 #fbf1c7
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #076678
+
+# Status bar foreground and background
+Status Bar          #fbf1c7 #9d0006
+
+# Normal cursor foreground and background
+Normal Cursor       #fbf1c7 #9d0006
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #fbf1c7 #076678
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #504945 #fbf1c7
+Edit Cursor         #fbf1c7 #504945
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #076678
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #79740e
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #bdae93
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

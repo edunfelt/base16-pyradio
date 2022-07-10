@@ -1,0 +1,43 @@
+# Base16 Atelier Cave for pyradio
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+
+# Main foreground and background
+Stations            #8b8792 #19171c
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #be4678
+
+# Status bar foreground and background
+Status Bar          #19171c #2a9292
+
+# Normal cursor foreground and background
+Normal Cursor       #19171c #2a9292
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #19171c #be4678
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #19171c #8b8792
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #be4678
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #8b8792
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #655f6d
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

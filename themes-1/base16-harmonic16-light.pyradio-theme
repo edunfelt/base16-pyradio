@@ -1,0 +1,44 @@
+# Base16 Harmonic16 Light for pyradio
+# By Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
+
+# Main foreground and background
+Stations            #405c79 #f7f9fb
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #8b56bf
+
+# Status bar foreground and background
+Status Bar          #f7f9fb #bf8b56
+
+# Normal cursor foreground and background
+Normal Cursor       #f7f9fb #bf8b56
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #f7f9fb #8b56bf
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #405c79 #f7f9fb
+Edit Cursor         #f7f9fb #405c79
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #8b56bf
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #56bf8b
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #aabcce
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

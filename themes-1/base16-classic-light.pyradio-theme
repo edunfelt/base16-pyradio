@@ -1,0 +1,44 @@
+# Base16 Classic Light for pyradio
+# By Jason Heeris (http:&#x2F;&#x2F;heeris.id.au)
+
+# Main foreground and background
+Stations            #303030 #F5F5F5
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #6A9FB5
+
+# Status bar foreground and background
+Status Bar          #F5F5F5 #AC4142
+
+# Normal cursor foreground and background
+Normal Cursor       #F5F5F5 #AC4142
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #F5F5F5 #6A9FB5
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #303030 #F5F5F5
+Edit Cursor         #F5F5F5 #303030
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #6A9FB5
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #90A959
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #B0B0B0
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

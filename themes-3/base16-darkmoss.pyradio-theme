@@ -1,0 +1,43 @@
+# Base16 darkmoss for pyradio
+# By Gabriel Avanzi (https:&#x2F;&#x2F;github.com&#x2F;avanzzzi)
+
+# Main foreground and background
+Stations            #c7c7a5 #171e1f
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #499180
+
+# Status bar foreground and background
+Status Bar          #171e1f #ff4658
+
+# Normal cursor foreground and background
+Normal Cursor       #171e1f #ff4658
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #171e1f #499180
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #171e1f #c7c7a5
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #499180
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #c7c7a5
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #555e5f
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

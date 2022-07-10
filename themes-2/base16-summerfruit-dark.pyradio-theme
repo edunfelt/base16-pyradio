@@ -1,0 +1,43 @@
+# Base16 Summerfruit Dark for pyradio
+# By Christopher Corley (http:&#x2F;&#x2F;christop.club&#x2F;)
+
+# Main foreground and background
+Stations            #D0D0D0 #151515
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #FF0086
+
+# Status bar foreground and background
+Status Bar          #151515 #00C918
+
+# Normal cursor foreground and background
+Normal Cursor       #151515 #00C918
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #151515 #FF0086
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #151515 #D0D0D0
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #FF0086
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #D0D0D0
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #505050
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

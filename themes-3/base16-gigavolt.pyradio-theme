@@ -1,0 +1,43 @@
+# Base16 Gigavolt for pyradio
+# By Aidan Swope (http:&#x2F;&#x2F;github.com&#x2F;Whillikers)
+
+# Main foreground and background
+Stations            #e9e7e1 #202126
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #f2e6a9
+
+# Status bar foreground and background
+Status Bar          #202126 #ff661a
+
+# Normal cursor foreground and background
+Normal Cursor       #202126 #ff661a
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #202126 #f2e6a9
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #202126 #e9e7e1
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #f2e6a9
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #e9e7e1
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #a1d2e6
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

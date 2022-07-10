@@ -1,0 +1,43 @@
+# Base16 Silk Light for pyradio
+# By Gabriel Fontes (https:&#x2F;&#x2F;github.com&#x2F;Misterio77)
+
+# Main foreground and background
+Stations            #385156 #E9F1EF
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #6CA38C
+
+# Status bar foreground and background
+Status Bar          #E9F1EF #CF432E
+
+# Normal cursor foreground and background
+Normal Cursor       #E9F1EF #CF432E
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #E9F1EF #6CA38C
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #E9F1EF #385156
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #6CA38C
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #385156
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #5C787B
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 London Tube for pyradio
+# By Jan T. Sott
+
+# Main foreground and background
+Stations            #d9d8d8 #231f20
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #ee2e24
+
+# Status bar foreground and background
+Status Bar          #231f20 #00853e
+
+# Normal cursor foreground and background
+Normal Cursor       #231f20 #00853e
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #231f20 #ee2e24
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #231f20 #d9d8d8
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ee2e24
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #d9d8d8
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #737171
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

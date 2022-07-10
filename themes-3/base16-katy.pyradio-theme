@@ -1,0 +1,43 @@
+# Base16 Katy for pyradio
+# By George Essig (https:&#x2F;&#x2F;github.com&#x2F;gessig)
+
+# Main foreground and background
+Stations            #959dcb #292d3e
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #78c06e
+
+# Status bar foreground and background
+Status Bar          #292d3e #6e98e1
+
+# Normal cursor foreground and background
+Normal Cursor       #292d3e #6e98e1
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #292d3e #78c06e
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #292d3e #959dcb
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #78c06e
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #959dcb
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #676e95
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

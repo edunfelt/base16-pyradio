@@ -1,0 +1,43 @@
+# Base16 Shades of Purple for pyradio
+# By Iolar Demartini Junior (http:&#x2F;&#x2F;github.com&#x2F;demartini) based on Shades of Purple Theme (https:&#x2F;&#x2F;github.com&#x2F;ahmadawais&#x2F;shades-of-purple-vscode).
+
+# Main foreground and background
+Stations            #c7c7c7 #1e1e3f
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #d90429
+
+# Status bar foreground and background
+Status Bar          #1e1e3f #3ad900
+
+# Normal cursor foreground and background
+Normal Cursor       #1e1e3f #3ad900
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1e1e3f #d90429
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #1e1e3f #c7c7c7
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #d90429
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #c7c7c7
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #808080
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

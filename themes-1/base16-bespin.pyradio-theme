@@ -1,0 +1,44 @@
+# Base16 Bespin for pyradio
+# By Jan T. Sott
+
+# Main foreground and background
+Stations            #8a8986 #28211c
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #5ea6ea
+
+# Status bar foreground and background
+Status Bar          #28211c #cf6a4c
+
+# Normal cursor foreground and background
+Normal Cursor       #28211c #cf6a4c
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #28211c #5ea6ea
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #8a8986 #28211c
+Edit Cursor         #28211c #8a8986
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #5ea6ea
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #54be0d
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #666666
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

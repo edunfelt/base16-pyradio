@@ -1,0 +1,44 @@
+# Base16 summercamp for pyradio
+# By zoe firi (zoefiri.github.io)
+
+# Main foreground and background
+Stations            #736e55 #1c1810
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #489bf0
+
+# Status bar foreground and background
+Status Bar          #1c1810 #e35142
+
+# Normal cursor foreground and background
+Normal Cursor       #1c1810 #e35142
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1c1810 #489bf0
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #736e55 #1c1810
+Edit Cursor         #1c1810 #736e55
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #489bf0
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #5ceb5a
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #504b38
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

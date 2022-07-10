@@ -1,0 +1,44 @@
+# Base16 Brush Trees for pyradio
+# By Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+# Main foreground and background
+Stations            #6D828E #E3EFEF
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #868cb3
+
+# Status bar foreground and background
+Status Bar          #E3EFEF #b38686
+
+# Normal cursor foreground and background
+Normal Cursor       #E3EFEF #b38686
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #E3EFEF #868cb3
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #6D828E #E3EFEF
+Edit Cursor         #E3EFEF #6D828E
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #868cb3
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #87b386
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #98AFB5
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

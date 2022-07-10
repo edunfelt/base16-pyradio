@@ -1,0 +1,44 @@
+# Base16 Chalk for pyradio
+# By Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+
+# Main foreground and background
+Stations            #d0d0d0 #151515
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #6fc2ef
+
+# Status bar foreground and background
+Status Bar          #151515 #fb9fb1
+
+# Normal cursor foreground and background
+Normal Cursor       #151515 #fb9fb1
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #151515 #6fc2ef
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #d0d0d0 #151515
+Edit Cursor         #151515 #d0d0d0
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #6fc2ef
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #acc267
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #505050
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

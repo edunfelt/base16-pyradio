@@ -1,0 +1,44 @@
+# Base16 Atelier Estuary for pyradio
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+
+# Main foreground and background
+Stations            #929181 #22221b
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #36a166
+
+# Status bar foreground and background
+Status Bar          #22221b #ba6236
+
+# Normal cursor foreground and background
+Normal Cursor       #22221b #ba6236
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #22221b #36a166
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #929181 #22221b
+Edit Cursor         #22221b #929181
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #36a166
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #7d9726
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #6c6b5a
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

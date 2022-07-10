@@ -1,0 +1,43 @@
+# Base16 Nord for pyradio
+# By arcticicestudio
+
+# Main foreground and background
+Stations            #E5E9F0 #2E3440
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #BF616A
+
+# Status bar foreground and background
+Status Bar          #2E3440 #A3BE8C
+
+# Normal cursor foreground and background
+Normal Cursor       #2E3440 #A3BE8C
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #2E3440 #BF616A
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #2E3440 #E5E9F0
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #BF616A
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #E5E9F0
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #4C566A
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Solarized Light for pyradio
+# By Ethan Schoonover (modified by aramisgithub)
+
+# Main foreground and background
+Stations            #586e75 #fdf6e3
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #859900
+
+# Status bar foreground and background
+Status Bar          #fdf6e3 #dc322f
+
+# Normal cursor foreground and background
+Normal Cursor       #fdf6e3 #dc322f
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #fdf6e3 #859900
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #fdf6e3 #586e75
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #859900
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #586e75
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #839496
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

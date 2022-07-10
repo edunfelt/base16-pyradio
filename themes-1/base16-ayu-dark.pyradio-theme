@@ -1,0 +1,44 @@
+# Base16 Ayu Dark for pyradio
+# By Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+
+# Main foreground and background
+Stations            #E6E1CF #0F1419
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #59C2FF
+
+# Status bar foreground and background
+Status Bar          #0F1419 #F07178
+
+# Normal cursor foreground and background
+Normal Cursor       #0F1419 #F07178
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #0F1419 #59C2FF
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #E6E1CF #0F1419
+Edit Cursor         #0F1419 #E6E1CF
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #59C2FF
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #B8CC52
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #3E4B59
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

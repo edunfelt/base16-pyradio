@@ -1,0 +1,43 @@
+# Base16 IR Black for pyradio
+# By Timothée Poisot (http:&#x2F;&#x2F;timotheepoisot.fr)
+
+# Main foreground and background
+Stations            #b5b3aa #000000
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #a8ff60
+
+# Status bar foreground and background
+Status Bar          #000000 #ff6c60
+
+# Normal cursor foreground and background
+Normal Cursor       #000000 #ff6c60
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #000000 #a8ff60
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #000000 #b5b3aa
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #a8ff60
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #b5b3aa
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #6c6c66
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

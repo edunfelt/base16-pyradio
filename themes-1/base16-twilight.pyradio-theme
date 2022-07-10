@@ -1,0 +1,44 @@
+# Base16 Twilight for pyradio
+# By David Hart (https:&#x2F;&#x2F;github.com&#x2F;hartbit)
+
+# Main foreground and background
+Stations            #a7a7a7 #1e1e1e
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #7587a6
+
+# Status bar foreground and background
+Status Bar          #1e1e1e #cf6a4c
+
+# Normal cursor foreground and background
+Normal Cursor       #1e1e1e #cf6a4c
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1e1e1e #7587a6
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #a7a7a7 #1e1e1e
+Edit Cursor         #1e1e1e #a7a7a7
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #7587a6
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #8f9d6a
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #5f5a60
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

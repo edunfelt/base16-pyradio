@@ -1,0 +1,44 @@
+# Base16 Still Alive for pyradio
+# By Derrick McKee (derrick.mckee@gmail.com)
+
+# Main foreground and background
+Stations            #D80000 #F0F0F0
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #001878
+
+# Status bar foreground and background
+Status Bar          #F0F0F0 #487830
+
+# Normal cursor foreground and background
+Normal Cursor       #F0F0F0 #487830
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #F0F0F0 #001878
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #D80000 #F0F0F0
+Edit Cursor         #F0F0F0 #D80000
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #001878
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #5C5C6A
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #F01818
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

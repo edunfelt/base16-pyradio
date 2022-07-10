@@ -1,0 +1,44 @@
+# Base16 Materia for pyradio
+# By Defman21
+
+# Main foreground and background
+Stations            #CDD3DE #263238
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #89DDFF
+
+# Status bar foreground and background
+Status Bar          #263238 #EC5F67
+
+# Normal cursor foreground and background
+Normal Cursor       #263238 #EC5F67
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #263238 #89DDFF
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #CDD3DE #263238
+Edit Cursor         #263238 #CDD3DE
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #89DDFF
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #8BD649
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #707880
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

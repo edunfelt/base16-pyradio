@@ -1,3 +1,12 @@
 default:
   extension: .pyradio-theme
   output: themes
+default-1:
+  extension: .pyradio-theme
+  output: themes-1
+default-2:
+  extension: .pyradio-theme
+  output: themes-2
+default-3:
+  extension: .pyradio-theme
+  output: themes-3

@@ -10,11 +10,9 @@ Active Station      #3E9688
 
 # Status bar foreground and background
 Status Bar          #031A16 #96883E
-Status Bar          #031A16 #883E96
 
 # Normal cursor foreground and background
 Normal Cursor       #031A16 #96883E
-Normal Cursor       #031A16 #883E96
 
 # Cursor foreground and background
 # when cursor on playing station
@@ -22,7 +20,7 @@ Active Cursor       #031A16 #3E9688
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #81B5AC #031A16
+Edit Cursor         #031A16 #81B5AC
 
 # Text color for extra function indication
 # and jump numbers within the status bar

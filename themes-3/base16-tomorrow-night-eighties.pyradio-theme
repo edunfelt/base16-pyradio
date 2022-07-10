@@ -1,0 +1,43 @@
+# Base16 Tomorrow Night Eighties for pyradio
+# By Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+
+# Main foreground and background
+Stations            #cccccc #2d2d2d
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #99cc99
+
+# Status bar foreground and background
+Status Bar          #2d2d2d #f2777a
+
+# Normal cursor foreground and background
+Normal Cursor       #2d2d2d #f2777a
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #2d2d2d #99cc99
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #2d2d2d #cccccc
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #99cc99
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #cccccc
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #999999
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

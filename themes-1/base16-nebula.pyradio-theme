@@ -1,0 +1,44 @@
+# Base16 Nebula for pyradio
+# By Gabriel Fontes (https:&#x2F;&#x2F;github.com&#x2F;Misterio77)
+
+# Main foreground and background
+Stations            #a4a6a9 #22273b
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #4d6bb6
+
+# Status bar foreground and background
+Status Bar          #22273b #777abc
+
+# Normal cursor foreground and background
+Normal Cursor       #22273b #777abc
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #22273b #4d6bb6
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #a4a6a9 #22273b
+Edit Cursor         #22273b #a4a6a9
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #4d6bb6
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #6562a8
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #6e6f72
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

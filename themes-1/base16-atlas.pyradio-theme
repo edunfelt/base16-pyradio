@@ -1,0 +1,44 @@
+# Base16 Atlas for pyradio
+# By Alex Lende (https:&#x2F;&#x2F;ajlende.com)
+
+# Main foreground and background
+Stations            #a1a19a #002635
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #5dd7b9
+
+# Status bar foreground and background
+Status Bar          #002635 #ff5a67
+
+# Normal cursor foreground and background
+Normal Cursor       #002635 #ff5a67
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #002635 #5dd7b9
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #a1a19a #002635
+Edit Cursor         #002635 #a1a19a
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #5dd7b9
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #7fc06e
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #6C8B91
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

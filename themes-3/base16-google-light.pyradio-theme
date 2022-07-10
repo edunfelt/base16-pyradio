@@ -1,0 +1,43 @@
+# Base16 Google Light for pyradio
+# By Seth Wright (http:&#x2F;&#x2F;sethawright.com)
+
+# Main foreground and background
+Stations            #373b41 #ffffff
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #198844
+
+# Status bar foreground and background
+Status Bar          #ffffff #CC342B
+
+# Normal cursor foreground and background
+Normal Cursor       #ffffff #CC342B
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #ffffff #198844
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #ffffff #373b41
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #198844
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #373b41
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #b4b7b4
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0
