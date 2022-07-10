@@ -21,7 +21,7 @@ jobs:
       - name: Fetch the repository code
         uses: actions/checkout@v2
         with:
-          path: 'base16/templates'
+          path: 'base16/templates/base16-pyradio'
       - name: Run make
         run: cd base16/templates/base16-pyradio && make
       - name: Commit the changes, if any
