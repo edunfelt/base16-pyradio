@@ -1,0 +1,43 @@
+# Base16 Black Metal (Dark Funeral) for pyradio
+# By metalelf0 (https:&#x2F;&#x2F;github.com&#x2F;metalelf0)
+
+# Main foreground and background
+Stations            #c1c1c1 #000000
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #888888
+
+# Status bar foreground and background
+Status Bar          #000000 #5f8787
+
+# Normal cursor foreground and background
+Normal Cursor       #000000 #5f8787
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #000000 #888888
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #000000 #c1c1c1
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #888888
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #d0dfee
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #333333
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

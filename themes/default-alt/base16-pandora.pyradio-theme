@@ -1,0 +1,43 @@
+# Base16 pandora for pyradio
+# By Cassandra Fox
+
+# Main foreground and background
+Stations            #f15c99 #131213
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #008080
+
+# Status bar foreground and background
+Status Bar          #131213 #b00b69
+
+# Normal cursor foreground and background
+Normal Cursor       #131213 #b00b69
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #131213 #008080
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #131213 #f15c99
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #008080
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #9ddf69
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #ffbee3
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

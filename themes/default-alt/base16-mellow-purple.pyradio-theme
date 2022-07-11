@@ -1,0 +1,43 @@
+# Base16 Mellow Purple for pyradio
+# By gidsi
+
+# Main foreground and background
+Stations            #ffeeff #1e0528
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #550068
+
+# Status bar foreground and background
+Status Bar          #1e0528 #00d9e9
+
+# Normal cursor foreground and background
+Normal Cursor       #1e0528 #00d9e9
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1e0528 #550068
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #1e0528 #ffeeff
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #550068
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #05cb0d
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #320f55
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

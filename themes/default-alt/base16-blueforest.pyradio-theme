@@ -1,0 +1,43 @@
+# Base16 Blue Forest for pyradio
+# By alonsodomin (https:&#x2F;&#x2F;github.com&#x2F;alonsodomin)
+
+# Main foreground and background
+Stations            #FFCC33 #141F2E
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #a2cff5
+
+# Status bar foreground and background
+Status Bar          #141F2E #fffab1
+
+# Normal cursor foreground and background
+Normal Cursor       #141F2E #fffab1
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #141F2E #a2cff5
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #141F2E #FFCC33
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #a2cff5
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #80ff80
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #a0ffa0
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

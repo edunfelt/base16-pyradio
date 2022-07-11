@@ -1,0 +1,43 @@
+# Base16 Tokyo Night Storm for pyradio
+# By Michaël Ball
+
+# Main foreground and background
+Stations            #A9B1D6 #24283B
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #2AC3DE
+
+# Status bar foreground and background
+Status Bar          #24283B #C0CAF5
+
+# Normal cursor foreground and background
+Normal Cursor       #24283B #C0CAF5
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #24283B #2AC3DE
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #24283B #A9B1D6
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #2AC3DE
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #9ECE6A
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #444B6A
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Tomorrow for pyradio
+# By Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+
+# Main foreground and background
+Stations            #4d4d4c #ffffff
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #4271ae
+
+# Status bar foreground and background
+Status Bar          #ffffff #c82829
+
+# Normal cursor foreground and background
+Normal Cursor       #ffffff #c82829
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #ffffff #4271ae
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #ffffff #4d4d4c
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #4271ae
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #718c00
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #8e908c
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

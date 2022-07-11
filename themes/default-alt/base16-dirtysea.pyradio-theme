@@ -1,0 +1,43 @@
+# Base16 dirtysea for pyradio
+# By Kahlil (Kal) Hodgson
+
+# Main foreground and background
+Stations            #000000 #e0e0e0
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #007300
+
+# Status bar foreground and background
+Status Bar          #e0e0e0 #840000
+
+# Normal cursor foreground and background
+Normal Cursor       #e0e0e0 #840000
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #e0e0e0 #007300
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #e0e0e0 #000000
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #007300
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #730073
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #707070
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

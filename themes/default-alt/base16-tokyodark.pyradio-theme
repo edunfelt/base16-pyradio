@@ -1,0 +1,43 @@
+# Base16 Tokyodark for pyradio
+# By Tiagovla (https:&#x2F;&#x2F;github.com&#x2F;tiagovla&#x2F;)
+
+# Main foreground and background
+Stations            #abb2bf #11121d
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #95c561
+
+# Status bar foreground and background
+Status Bar          #11121d #a485dd
+
+# Normal cursor foreground and background
+Normal Cursor       #11121d #a485dd
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #11121d #95c561
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #11121d #abb2bf
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #95c561
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #d7A65f
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #393a45
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Ocean for pyradio
+# By Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+
+# Main foreground and background
+Stations            #c0c5ce #2b303b
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #8fa1b3
+
+# Status bar foreground and background
+Status Bar          #2b303b #bf616a
+
+# Normal cursor foreground and background
+Normal Cursor       #2b303b #bf616a
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #2b303b #8fa1b3
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #2b303b #c0c5ce
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #8fa1b3
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #a3be8c
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #65737e
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0
