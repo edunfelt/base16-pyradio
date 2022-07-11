@@ -4,7 +4,7 @@ This repo contains 4 sets of theme files and templates for internet radio player
 Prebuilt themes have been built using [base16-builder-node](https://github.com/base16-project/base16-builder-node), and can be found in the `themes/` directory. For detailed build and installation instructions, see [Installation](#installation).
 
 ## Installation
-### Install a theme
+### Install a theme manually
 To install individual themes, copy the desired `.pyradio-theme`-file in any of the directories under `themes/` to `~/.config/pyradio/themes/`, or use `curl`:
 
 ```
@@ -12,45 +12,7 @@ mkdir -p ~/.config/pyradio/themes
 curl https://raw.githubusercontent.com/edunfelt/base16-pyradio/master/themes/default/base16-default-dark.pyradio-theme -o ~/.config/pyradio/themes/base16-default-dark.pyradio-theme
 ```
 
-### Build themes
-#### Requirements
-- [base16-builder-node](https://github.com/base16-project/base16-builder-node)
-- [Make](https://www.gnu.org/software/make/)
-
-#### Instructions
-```
-mkdir -p base16/templates && cd base16/templates
-git clone git@github.com:edunfelt/base16-pyradio.git
-cd base16-pyradio
-make
-```
-
-## Contributing
-Contributions are welcome and greatly appreciated!
-
-## Screenshots
-**cupcake**
-
-![cupcake](assets/cupcake.png)
-
-**nord**
-
-![nord](assets/nord.png)
-
-**catppuccin**
-
-![catppuccin](assets/catppuccin.png)
-
-**everforest**
-
-![everforest](assets/everforest.png)
-
-**solarized-dark**
-
-![solarized-dark](assets/solarized.png)
-
-
-## Using the themes without base16
+### Using the themes without base16-shell
 
 The best way to use the themes is to install and set up [base16-shell](https://github.com/base16-project/base16-shell), (in which case no theme installation is necessary), but this is not mandatory.
 
@@ -58,7 +20,7 @@ To use the themes (without installing and using **base16-shell**) one would just
 
 One might just want to test the themes, by copying one of the directories to `~/.config/pyradio/themes`, for example
 
-    cp themes/vaviation/* ~/.config/pyradio/themes
+    cp themes/variation/* ~/.config/pyradio/themes
 
 to "install" and test the variation set of the themes.
 
@@ -89,13 +51,28 @@ do
     cd ..
 done
 
-echo "All themes copyied to: ${TARGET}"
+echo "All themes copied to: ${TARGET}"
+```
+
+### Build themes
+#### Requirements
+
+- [base16-builder-node](https://github.com/base16-project/base16-builder-node)
+- [Make](https://www.gnu.org/software/make/)
+
+#### Instructions
+
+```
+mkdir -p base16/templates && cd base16/templates
+git clone git@github.com:edunfelt/base16-pyradio.git
+cd base16-pyradio
+make
 ```
 
 
 ## Cycling through the themes
 
-To see all the themes provided by this repo, follow this procedure
+To see all the themes provided by this repo, follow this procedure:
 
 Create a new file anywhere in you PATH, in `~/.lobal/bin` for example, and name it `cycle_base16_themes`.
 
@@ -170,3 +147,32 @@ Obviously, you will have to use the file location you used when you created the 
 Execute it in a terminal... and follow the instructions.
 
 Enjoy!
+
+
+## Contributing
+
+Contributions are welcome and greatly appreciated!
+
+
+## Screenshots
+Left side shows the `default` theme, right side shows `default-alt`.
+
+**cupcake**
+
+![cupcake](assets/cupcake.png)
+
+**nord**
+
+![nord](assets/nord.png)
+
+**catppuccin**
+
+![catppuccin](assets/catppuccin.png)
+
+**solarized-dark**
+
+![solarized-dark](assets/solarized-dark.png)
+
+**solarized-light**
+
+![solarized-light](assets/solarized-light.png)
