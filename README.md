@@ -155,24 +155,41 @@ Contributions are welcome and greatly appreciated!
 
 
 ## Screenshots
-Left side shows the `default` theme, right side shows `default-alt`.
+Left side shows the `default` themes, right side shows `variant` themes.
 
 **cupcake**
 
-![cupcake](assets/cupcake.png)
+<p align="center">
+    <img src="assets/cupcake.png" width="45%" />
+    <img src="assets/cupcake-variant.png" width="45%" />
+</p>
 
 **nord**
 
-![nord](assets/nord.png)
+<p align="center">
+    <img src="assets/nord.png" width="45%" />
+    <img src="assets/nord-variant.png" width="45%" />
+</p>
 
 **catppuccin**
 
-![catppuccin](assets/catppuccin.png)
+<p align="center">
+    <img src="assets/catppuccin.png" width="45%" />
+    <img src="assets/catppuccin-variant.png" width="45%" />
+</p>
+
 
 **solarized-dark**
 
-![solarized-dark](assets/solarized-dark.png)
+<p align="center">
+    <img src="assets/solarized-dark.png" width="45%" />
+    <img src="assets/solarized-dark-variant.png" width="45%" />
+</p>
+
 
 **solarized-light**
 
-![solarized-light](assets/solarized-light.png)
+<p align="center">
+    <img src="assets/solarized-light.png" width="45%" />
+    <img src="assets/solarized-light-variant.png" width="45%" />
+</p>
