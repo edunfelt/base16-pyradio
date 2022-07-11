@@ -1,0 +1,43 @@
+# Base16 Heetch Dark for pyradio
+# By Geoffrey Teale (tealeg@gmail.com)
+
+# Main foreground and background
+Stations            #BDB6C5 #190134
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #27D9D5
+
+# Status bar foreground and background
+Status Bar          #190134 #BD0152
+
+# Normal cursor foreground and background
+Normal Cursor       #190134 #BD0152
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #190134 #27D9D5
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #190134 #BDB6C5
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #27D9D5
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #C33678
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #7B6D8B
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

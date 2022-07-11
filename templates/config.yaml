@@ -1,3 +1,12 @@
 default:
   extension: .pyradio-theme
-  output: themes
+  output: themes/default
+default-alt:
+  extension: .pyradio-theme
+  output: themes/default-alt
+variation:
+  extension: .pyradio-theme
+  output: themes/variation
+variation-alt:
+  extension: .pyradio-theme
+  output: themes/variation-alt

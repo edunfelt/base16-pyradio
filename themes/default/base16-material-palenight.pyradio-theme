@@ -1,0 +1,43 @@
+# Base16 Material Palenight for pyradio
+# By Nate Peterson
+
+# Main foreground and background
+Stations            #959DCB #292D3E
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #F07178
+
+# Status bar foreground and background
+Status Bar          #292D3E #82AAFF
+
+# Normal cursor foreground and background
+Normal Cursor       #292D3E #82AAFF
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #292D3E #F07178
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #292D3E #959DCB
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #F07178
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #C3E88D
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #676E95
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

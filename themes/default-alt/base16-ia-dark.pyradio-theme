@@ -1,0 +1,43 @@
+# Base16 iA Dark for pyradio
+# By iA Inc. (modified by aramisgithub)
+
+# Main foreground and background
+Stations            #cccccc #1a1a1a
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #8eccdd
+
+# Status bar foreground and background
+Status Bar          #1a1a1a #d88568
+
+# Normal cursor foreground and background
+Normal Cursor       #1a1a1a #d88568
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1a1a1a #8eccdd
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #1a1a1a #cccccc
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #8eccdd
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #83a471
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #767676
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

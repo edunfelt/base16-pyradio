@@ -1,0 +1,43 @@
+# Base16 3024 for pyradio
+# By Jan T. Sott (http:&#x2F;&#x2F;github.com&#x2F;idleberg)
+
+# Main foreground and background
+Stations            #a5a2a2 #090300
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #db2d20
+
+# Status bar foreground and background
+Status Bar          #090300 #01a252
+
+# Normal cursor foreground and background
+Normal Cursor       #090300 #01a252
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #090300 #db2d20
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #090300 #a5a2a2
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #db2d20
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #a5a2a2
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #5c5855
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

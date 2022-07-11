@@ -1,0 +1,43 @@
+# Base16 Snazzy for pyradio
+# By Chawye Hsu (https:&#x2F;&#x2F;github.com&#x2F;chawyehsu) based on Hyper Snazzy Theme (https:&#x2F;&#x2F;github.com&#x2F;sindresorhus&#x2F;hyper-snazzy)
+
+# Main foreground and background
+Stations            #e2e4e5 #282a36
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #ff5c57
+
+# Status bar foreground and background
+Status Bar          #282a36 #57c7ff
+
+# Normal cursor foreground and background
+Normal Cursor       #282a36 #57c7ff
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #282a36 #ff5c57
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #282a36 #e2e4e5
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ff5c57
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #5af78e
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #78787e
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

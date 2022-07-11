@@ -1,0 +1,43 @@
+# Base16 Windows 95 Light for pyradio
+# By Fergus Collins (https:&#x2F;&#x2F;github.com&#x2F;C-Fergus)
+
+# Main foreground and background
+Stations            #545454 #fcfcfc
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #a80000
+
+# Status bar foreground and background
+Status Bar          #fcfcfc #0000a8
+
+# Normal cursor foreground and background
+Normal Cursor       #fcfcfc #0000a8
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #fcfcfc #a80000
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #fcfcfc #545454
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #a80000
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #00a800
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #a8a8a8
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

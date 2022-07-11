@@ -1,0 +1,43 @@
+# Base16 Sakura for pyradio
+# By Misterio77 (http:&#x2F;&#x2F;github.com&#x2F;Misterio77)
+
+# Main foreground and background
+Stations            #564448 #feedf3
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #df2d52
+
+# Status bar foreground and background
+Status Bar          #feedf3 #006e93
+
+# Normal cursor foreground and background
+Normal Cursor       #feedf3 #006e93
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #feedf3 #df2d52
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #feedf3 #564448
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #df2d52
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #2e916d
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #755f64
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 lime for pyradio
+# By limelier
+
+# Main foreground and background
+Stations            #818175 #1a1a2f
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #2b926f
+
+# Status bar foreground and background
+Status Bar          #1a1a2f #ff662a
+
+# Normal cursor foreground and background
+Normal Cursor       #1a1a2f #ff662a
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1a1a2f #2b926f
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #1a1a2f #818175
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #2b926f
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #8cd97c
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #313140
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

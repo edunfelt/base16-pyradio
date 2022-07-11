@@ -1,0 +1,43 @@
+# Base16 Material Vivid for pyradio
+# By joshyrobot
+
+# Main foreground and background
+Stations            #80868b #202124
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #00e676
+
+# Status bar foreground and background
+Status Bar          #202124 #f44336
+
+# Normal cursor foreground and background
+Normal Cursor       #202124 #f44336
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #202124 #00e676
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #202124 #80868b
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #00e676
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #80868b
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #44464d
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

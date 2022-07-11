@@ -1,0 +1,43 @@
+# Base16 Bright for pyradio
+# By Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+
+# Main foreground and background
+Stations            #e0e0e0 #000000
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #fb0120
+
+# Status bar foreground and background
+Status Bar          #000000 #a1c659
+
+# Normal cursor foreground and background
+Normal Cursor       #000000 #a1c659
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #000000 #fb0120
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #000000 #e0e0e0
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #fb0120
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #e0e0e0
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #b0b0b0
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

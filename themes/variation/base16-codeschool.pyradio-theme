@@ -1,0 +1,43 @@
+# Base16 Codeschool for pyradio
+# By blockloop
+
+# Main foreground and background
+Stations            #9ea7a6 #232c31
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #2a5491
+
+# Status bar foreground and background
+Status Bar          #232c31 #237986
+
+# Normal cursor foreground and background
+Normal Cursor       #232c31 #237986
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #232c31 #2a5491
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #232c31 #9ea7a6
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #2a5491
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #9ea7a6
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #3f4944
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

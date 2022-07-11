@@ -1,0 +1,43 @@
+# Base16 vulcan for pyradio
+# By Andrey Varfolomeev
+
+# Main foreground and background
+Stations            #5b778c #041523
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #818591
+
+# Status bar foreground and background
+Status Bar          #041523 #977d7c
+
+# Normal cursor foreground and background
+Normal Cursor       #041523 #977d7c
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #041523 #818591
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #041523 #5b778c
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #818591
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #5b778c
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #7a5759
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Atelier Heath for pyradio
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+
+# Main foreground and background
+Stations            #ab9bab #1b181b
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #ca402b
+
+# Status bar foreground and background
+Status Bar          #1b181b #516aec
+
+# Normal cursor foreground and background
+Normal Cursor       #1b181b #516aec
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1b181b #ca402b
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #1b181b #ab9bab
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ca402b
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #918b3b
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #776977
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

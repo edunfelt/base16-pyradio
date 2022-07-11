@@ -1,0 +1,43 @@
+# Base16 Da One Black for pyradio
+# By NNB (https:&#x2F;&#x2F;github.com&#x2F;NNBnh)
+
+# Main foreground and background
+Stations            #ffffff #000000
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #6bb8ff
+
+# Status bar foreground and background
+Status Bar          #000000 #fa7883
+
+# Normal cursor foreground and background
+Normal Cursor       #000000 #fa7883
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #000000 #6bb8ff
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #000000 #ffffff
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #6bb8ff
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #98c379
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #888888
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

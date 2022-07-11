@@ -1,0 +1,43 @@
+# Base16 Pasque for pyradio
+# By Gabriel Fontes (https:&#x2F;&#x2F;github.com&#x2F;Misterio77)
+
+# Main foreground and background
+Stations            #DEDCDF #271C3A
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #8E7DC6
+
+# Status bar foreground and background
+Status Bar          #271C3A #A92258
+
+# Normal cursor foreground and background
+Normal Cursor       #271C3A #A92258
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #271C3A #8E7DC6
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #271C3A #DEDCDF
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #8E7DC6
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #C6914B
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #5D5766
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

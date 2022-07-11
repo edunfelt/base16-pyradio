@@ -1,0 +1,43 @@
+# Base16 Brewer for pyradio
+# By Timothée Poisot (http:&#x2F;&#x2F;github.com&#x2F;tpoisot)
+
+# Main foreground and background
+Stations            #b7b8b9 #0c0d0e
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #e31a1c
+
+# Status bar foreground and background
+Status Bar          #0c0d0e #3182bd
+
+# Normal cursor foreground and background
+Normal Cursor       #0c0d0e #3182bd
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #0c0d0e #e31a1c
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #0c0d0e #b7b8b9
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #e31a1c
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #31a354
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #737475
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

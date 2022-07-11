@@ -1,0 +1,43 @@
+# Base16 Gruvbox Material Dark, Hard for pyradio
+# By Mayush Kumar (https:&#x2F;&#x2F;github.com&#x2F;MayushKumar), sainnhe (https:&#x2F;&#x2F;github.com&#x2F;sainnhe&#x2F;gruvbox-material-vscode)
+
+# Main foreground and background
+Stations            #ddc7a1 #202020
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #ea6962
+
+# Status bar foreground and background
+Status Bar          #202020 #7daea3
+
+# Normal cursor foreground and background
+Normal Cursor       #202020 #7daea3
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #202020 #ea6962
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #202020 #ddc7a1
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ea6962
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #a9b665
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #5a524c
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

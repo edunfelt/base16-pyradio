@@ -1,0 +1,43 @@
+# Base16 XCode Dusk for pyradio
+# By Elsa Gonsiorowski (https:&#x2F;&#x2F;github.com&#x2F;gonsie)
+
+# Main foreground and background
+Stations            #939599 #282B35
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #DF0002
+
+# Status bar foreground and background
+Status Bar          #282B35 #B21889
+
+# Normal cursor foreground and background
+Normal Cursor       #282B35 #B21889
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #282B35 #DF0002
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #282B35 #939599
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #DF0002
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #939599
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #686A71
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

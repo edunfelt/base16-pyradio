@@ -1,0 +1,43 @@
+# Base16 Atelier Seaside Light for pyradio
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+
+# Main foreground and background
+Stations            #5e6e5e #f4fbf4
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #e6193c
+
+# Status bar foreground and background
+Status Bar          #f4fbf4 #29a329
+
+# Normal cursor foreground and background
+Normal Cursor       #f4fbf4 #29a329
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #f4fbf4 #e6193c
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #f4fbf4 #5e6e5e
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #e6193c
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #5e6e5e
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #809980
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

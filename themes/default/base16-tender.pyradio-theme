@@ -1,0 +1,43 @@
+# Base16 tender for pyradio
+# By Jacobo Tabernero (https:&#x2F;&#x2F;github&#x2F;com&#x2F;jacoborus&#x2F;tender.vim)
+
+# Main foreground and background
+Stations            #eeeeee #282828
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #f43753
+
+# Status bar foreground and background
+Status Bar          #282828 #b3deef
+
+# Normal cursor foreground and background
+Normal Cursor       #282828 #b3deef
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #282828 #f43753
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #282828 #eeeeee
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #f43753
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #c9d05c
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #4c4c4c
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Solar Flare Light for pyradio
+# By Chuck Harmston (https:&#x2F;&#x2F;chuck.harmston.ch)
+
+# Main foreground and background
+Stations            #586875 #F5F7FA
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #EF5253
+
+# Status bar foreground and background
+Status Bar          #F5F7FA #33B5E1
+
+# Normal cursor foreground and background
+Normal Cursor       #F5F7FA #33B5E1
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #F5F7FA #EF5253
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #F5F7FA #586875
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #EF5253
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #7CC844
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #85939E
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

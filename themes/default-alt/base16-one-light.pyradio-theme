@@ -1,0 +1,43 @@
+# Base16 One Light for pyradio
+# By Daniel Pfeifer (http:&#x2F;&#x2F;github.com&#x2F;purpleKarrot)
+
+# Main foreground and background
+Stations            #383a42 #fafafa
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #4078f2
+
+# Status bar foreground and background
+Status Bar          #fafafa #ca1243
+
+# Normal cursor foreground and background
+Normal Cursor       #fafafa #ca1243
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #fafafa #4078f2
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #fafafa #383a42
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #4078f2
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #50a14f
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #a0a1a7
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

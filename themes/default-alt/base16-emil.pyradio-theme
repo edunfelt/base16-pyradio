@@ -1,0 +1,43 @@
+# Base16 emil for pyradio
+# By limelier
+
+# Main foreground and background
+Stations            #313145 #efefef
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #471397
+
+# Status bar foreground and background
+Status Bar          #efefef #f43979
+
+# Normal cursor foreground and background
+Normal Cursor       #efefef #f43979
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #efefef #471397
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #efefef #313145
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #471397
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #0073a8
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #7c7c98
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

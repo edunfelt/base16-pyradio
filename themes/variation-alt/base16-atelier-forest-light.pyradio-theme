@@ -1,0 +1,43 @@
+# Base16 Atelier Forest Light for pyradio
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+
+# Main foreground and background
+Stations            #68615e #f1efee
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #7b9726
+
+# Status bar foreground and background
+Status Bar          #f1efee #f22c40
+
+# Normal cursor foreground and background
+Normal Cursor       #f1efee #f22c40
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #f1efee #7b9726
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #f1efee #68615e
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #7b9726
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #68615e
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #9c9491
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

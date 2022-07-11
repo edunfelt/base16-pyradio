@@ -1,0 +1,43 @@
+# Base16 Windows NT Light for pyradio
+# By Fergus Collins (https:&#x2F;&#x2F;github.com&#x2F;C-Fergus)
+
+# Main foreground and background
+Stations            #808080 #ffffff
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #800000
+
+# Status bar foreground and background
+Status Bar          #ffffff #008000
+
+# Normal cursor foreground and background
+Normal Cursor       #ffffff #008000
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #ffffff #800000
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #ffffff #808080
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #800000
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #808080
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #c0c0c0
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

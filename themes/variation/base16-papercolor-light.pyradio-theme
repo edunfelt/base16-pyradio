@@ -1,0 +1,43 @@
+# Base16 PaperColor Light for pyradio
+# By Jon Leopard (http:&#x2F;&#x2F;github.com&#x2F;jonleopard) based on PaperColor Theme (https:&#x2F;&#x2F;github.com&#x2F;NLKNguyen&#x2F;papercolor-theme)
+
+# Main foreground and background
+Stations            #444444 #eeeeee
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #bcbcbc
+
+# Status bar foreground and background
+Status Bar          #eeeeee #8700af
+
+# Normal cursor foreground and background
+Normal Cursor       #eeeeee #8700af
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #eeeeee #bcbcbc
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #eeeeee #444444
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #bcbcbc
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #444444
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #5f8700
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

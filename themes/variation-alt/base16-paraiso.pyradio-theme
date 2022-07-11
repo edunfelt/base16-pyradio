@@ -1,0 +1,43 @@
+# Base16 Paraiso for pyradio
+# By Jan T. Sott
+
+# Main foreground and background
+Stations            #a39e9b #2f1e2e
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #48b685
+
+# Status bar foreground and background
+Status Bar          #2f1e2e #ef6155
+
+# Normal cursor foreground and background
+Normal Cursor       #2f1e2e #ef6155
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #2f1e2e #48b685
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #2f1e2e #a39e9b
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #48b685
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #a39e9b
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #776e71
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

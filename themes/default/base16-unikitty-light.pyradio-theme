@@ -1,0 +1,43 @@
+# Base16 Unikitty Light for pyradio
+# By Josh W Lewis (@joshwlewis)
+
+# Main foreground and background
+Stations            #6c696e #ffffff
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #d8137f
+
+# Status bar foreground and background
+Status Bar          #ffffff #775dff
+
+# Normal cursor foreground and background
+Normal Cursor       #ffffff #775dff
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #ffffff #d8137f
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #ffffff #6c696e
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #d8137f
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #17ad98
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #a7a5a8
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

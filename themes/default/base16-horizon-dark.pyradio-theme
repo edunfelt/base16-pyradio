@@ -1,0 +1,43 @@
+# Base16 Horizon Dark for pyradio
+# By Michaël Ball (http:&#x2F;&#x2F;github.com&#x2F;michael-ball&#x2F;)
+
+# Main foreground and background
+Stations            #CBCED0 #1C1E26
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #E93C58
+
+# Status bar foreground and background
+Status Bar          #1C1E26 #DF5273
+
+# Normal cursor foreground and background
+Normal Cursor       #1C1E26 #DF5273
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1C1E26 #E93C58
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #1C1E26 #CBCED0
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #E93C58
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #EFAF8E
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #6F6F70
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

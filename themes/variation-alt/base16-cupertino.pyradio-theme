@@ -1,0 +1,43 @@
+# Base16 Cupertino for pyradio
+# By Defman21
+
+# Main foreground and background
+Stations            #404040 #ffffff
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #007400
+
+# Status bar foreground and background
+Status Bar          #ffffff #c41a15
+
+# Normal cursor foreground and background
+Normal Cursor       #ffffff #c41a15
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #ffffff #007400
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #ffffff #404040
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #007400
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #404040
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #808080
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Tokyo City Light for pyradio
+# By Michaël Ball
+
+# Main foreground and background
+Stations            #343B59 #FBFBFD
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #8C4351
+
+# Status bar foreground and background
+Status Bar          #FBFBFD #485E30
+
+# Normal cursor foreground and background
+Normal Cursor       #FBFBFD #485E30
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #FBFBFD #8C4351
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #FBFBFD #343B59
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #8C4351
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #343B59
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #9699A3
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

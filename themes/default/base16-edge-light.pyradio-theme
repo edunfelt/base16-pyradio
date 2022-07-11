@@ -1,0 +1,43 @@
+# Base16 Edge Light for pyradio
+# By cjayross (https:&#x2F;&#x2F;github.com&#x2F;cjayross)
+
+# Main foreground and background
+Stations            #5e646f #fafafa
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #db7070
+
+# Status bar foreground and background
+Status Bar          #fafafa #6587bf
+
+# Normal cursor foreground and background
+Normal Cursor       #fafafa #6587bf
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #fafafa #db7070
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #fafafa #5e646f
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #db7070
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #7c9f4b
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #5e646f
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 ShadeSmear Dark for pyradio
+# By Kyle Giammarco (http:&#x2F;&#x2F;kyle.giammar.co)
+
+# Main foreground and background
+Stations            #DBDBDB #232323
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #CC5450
+
+# Status bar foreground and background
+Status Bar          #232323 #376388
+
+# Normal cursor foreground and background
+Normal Cursor       #232323 #376388
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #232323 #CC5450
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #232323 #DBDBDB
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #CC5450
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #71983B
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #C0C0C0
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

@@ -1,0 +1,43 @@
+# Base16 Icy Dark for pyradio
+# By icyphox (https:&#x2F;&#x2F;icyphox.ga)
+
+# Main foreground and background
+Stations            #095b67 #021012
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #4dd0e1
+
+# Status bar foreground and background
+Status Bar          #021012 #16c1d9
+
+# Normal cursor foreground and background
+Normal Cursor       #021012 #16c1d9
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #021012 #4dd0e1
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #021012 #095b67
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #4dd0e1
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #095b67
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #052e34
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

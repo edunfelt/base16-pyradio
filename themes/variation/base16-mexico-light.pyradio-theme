@@ -1,0 +1,43 @@
+# Base16 Mexico Light for pyradio
+# By Sheldon Johnson
+
+# Main foreground and background
+Stations            #383838 #f8f8f8
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #ab4642
+
+# Status bar foreground and background
+Status Bar          #f8f8f8 #538947
+
+# Normal cursor foreground and background
+Normal Cursor       #f8f8f8 #538947
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #f8f8f8 #ab4642
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #f8f8f8 #383838
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ab4642
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #383838
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #b8b8b8
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

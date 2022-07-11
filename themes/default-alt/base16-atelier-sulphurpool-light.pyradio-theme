@@ -1,0 +1,43 @@
+# Base16 Atelier Sulphurpool Light for pyradio
+# By Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+
+# Main foreground and background
+Stations            #5e6687 #f5f7ff
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #3d8fd1
+
+# Status bar foreground and background
+Status Bar          #f5f7ff #c94922
+
+# Normal cursor foreground and background
+Normal Cursor       #f5f7ff #c94922
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #f5f7ff #3d8fd1
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #f5f7ff #5e6687
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #3d8fd1
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #ac9739
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #898ea4
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

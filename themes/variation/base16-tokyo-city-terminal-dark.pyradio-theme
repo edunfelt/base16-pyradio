@@ -1,0 +1,43 @@
+# Base16 Tokyo City Terminal Dark for pyradio
+# By Michaël Ball
+
+# Main foreground and background
+Stations            #D8E2EC #171D23
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #D95468
+
+# Status bar foreground and background
+Status Bar          #171D23 #8BD49C
+
+# Normal cursor foreground and background
+Normal Cursor       #171D23 #8BD49C
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #171D23 #D95468
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #171D23 #D8E2EC
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #D95468
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #D8E2EC
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #526270
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

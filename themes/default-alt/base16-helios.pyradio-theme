@@ -1,0 +1,43 @@
+# Base16 Helios for pyradio
+# By Alex Meyer (https:&#x2F;&#x2F;github.com&#x2F;reyemxela)
+
+# Main foreground and background
+Stations            #d5d5d5 #1d2021
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #1e8bac
+
+# Status bar foreground and background
+Status Bar          #1d2021 #d72638
+
+# Normal cursor foreground and background
+Normal Cursor       #1d2021 #d72638
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #1d2021 #1e8bac
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #1d2021 #d5d5d5
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #1e8bac
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #88b92d
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #6f7579
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0
