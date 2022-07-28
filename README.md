@@ -467,7 +467,11 @@ copy_thread.start()
 
 while True:
     char = scr.getch()
-    if char == ord('q'):
+    if char == curses.KEY_RESIZE:
+        ny, nx = scr.getmaxyx()
+        win.resize(ny-15, nx)
+        win.mvwin(15, 0)
+    elif char == ord('q'):
         stop_thread = True
         break
     elif char in (ord('+'), ord('.')):
