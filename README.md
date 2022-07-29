@@ -26,33 +26,30 @@ to "install" and test the variation set of the themes.
 
 Consecutive use of this command (using a different source directory) will just overwrite any previously copied themes.
 
-To copy all the themes, just use the following script.
+To copy all the themes, or all themes in a folder, just use the following script.
+
+    python install_themes.py
 
 **Notice:** this will copy more than **900 files** in the target directory... You've been warned...
 
-**copy-themes**
-```
-#!/bin/bash
-if [ $(basename "$PWD") != "themes"  ]
-then
-    echo "Run this script in the \"themes\" dir only!"
-    exit 1
-fi
-TARGET=~/.config/pyradio/themes
-mkdir -p "${TARGET}"
+Here is its help screen
 
-for ADIR in default default-alt variation variation-alt
-do
-    cd "${ADIR}"
-    for AFILE in *
-    do
-        \cp "${AFILE}"  "${TARGET}/${AFILE/.pyradio-theme/-$ADIR.pyradio-theme}"
-    done
-    cd ..
-done
-
-echo "All themes copied to: ${TARGET}"
 ```
+usage: install_themes.py [-h] [-a] [-d] [-l] [-r] [-t] [-u]
+
+Install PyRadio Base16 themes
+
+options:
+  -h, --help           show this help message and exit
+  -a, --all            install all themes
+  -d, --default        install default themes only
+  -l, --default-alt    install default alternative themes only
+  -r, --variation      install variation themes only
+  -t, --variation-alt  install variation alternative themes only
+  -u, --uninstall      uninstall themes (to be used with one of the previous
+                       options)
+```
+
 
 ### Build themes
 #### Requirements
@@ -72,82 +69,29 @@ make
 
 ## Cycling through the themes
 
-To see all the themes provided by this repo, follow this procedure:
+To see all the themes provided by this repo, just use this theme:
 
-Create a new file anywhere in you PATH, in `~/.lobal/bin` for example, and name it `cycle_base16_themes`.
 
-```
-touch ~/.local/bin/cycle_base16_themes
-```
+    python cycle_themes.py
 
-Open it in a text editor and paste the following in it:
+and follow the instructions within.
 
-```
-#!/bin/bash
-if [ $(basename "$PWD") != "themes"  ]
-then
-    echo "Run this script in the \"themes\" dir only!"
-    exit 1
-fi
-
-mkdir -p ~/.config/pyradio/themes
-\cp default/base16-3024.pyradio-theme ~/.config/pyradio/themes/cycle_base16_themes.pyradio-theme
-
-clear
-echo "Please execute PyRadio now and \"watch\" the \"cycle_base16_themes\" theme
-
-To do that:
-  1. Press \"t\" to open the \"Themes Selection\" window
-  2. Select the \"cycle_base16_themes\" entry
-  3. Press \"c\" to watch it
-  4. Press \"ESCAPE\" to close the \"Themes Selection\" window
-"
-echo -n "When you are ready, please press \"ENTER\" to continue..."
-read
-
-ALL=$(ls -1 default/*.pyradio-theme | wc -l)
-ALL=$((ALL * 4))
-while true
-do
-    clear
-    COUNT=1
-    for n in default/*.pyradio-theme
-    do
-        echo -n '-'
-        printf '%3s/%s. ' $COUNT $ALL
-        echo "${n/.*/}"
-        # echo $k/${n/.*/}
-        ((COUNT++))
-        \cp "$n" ~/.config/pyradio/themes/cycle_base16_themes.pyradio-theme
-        sleep 2.5
-        for k in default-alt variation variation-alt
-        do
-            printf '%4s/%s. ' $COUNT $ALL
-            f="$k"/$(basename "$n")
-            echo "${f/.*/}"
-            ((COUNT++))
-            \cp "$f" ~/.config/pyradio/themes/cycle_base16_themes.pyradio-theme
-            sleep 2.5
-        done
-
-    done
-    echo "All done... Repeating in 5 seconds!"
-    sleep 5
-done
-```
-
-Finally, make it executable:
+Here is its help screen
 
 ```
-chmod +x ~/.local/bin/cycle_base16_themes
+usage: cycle_themes.py [-h] [-s START] [-d DELAY]
+
+Cycle through PyRadio Base16 themes
+
+options:
+  -h, --help            show this help message and exit
+  -s START, --start START
+                        start with theme number
+  -d DELAY, --delay DELAY
+                        counter delay
 ```
-
-Obviously, you will have to use the file location you used when you created the file.
-
-Execute it in a terminal... and follow the instructions.
 
 Enjoy!
-
 
 ## Contributing
 
