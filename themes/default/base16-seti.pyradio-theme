@@ -12,11 +12,11 @@ Active Station      #Cd3f45
 Status Bar          #151718 #55b5db
 
 # Normal cursor foreground and background
-Normal Cursor       #151718 #55b5db
+Normal Cursor       #151718 #Cd3f45
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #151718 #Cd3f45
+Active Cursor       #151718 #55b5db
 
 # Cursor foreground and background
 # This is the Line Editor cursor

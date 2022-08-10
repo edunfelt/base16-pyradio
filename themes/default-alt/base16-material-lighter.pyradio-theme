@@ -12,11 +12,11 @@ Active Station      #6182B8
 Status Bar          #FAFAFA #FF5370
 
 # Normal cursor foreground and background
-Normal Cursor       #FAFAFA #FF5370
+Normal Cursor       #FAFAFA #6182B8
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #FAFAFA #6182B8
+Active Cursor       #FAFAFA #FF5370
 
 # Cursor foreground and background
 # This is the Line Editor cursor

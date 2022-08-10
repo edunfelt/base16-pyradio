@@ -12,11 +12,11 @@ Active Station      #8700af
 Status Bar          #eeeeee #bcbcbc
 
 # Normal cursor foreground and background
-Normal Cursor       #eeeeee #bcbcbc
+Normal Cursor       #eeeeee #8700af
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #eeeeee #8700af
+Active Cursor       #eeeeee #bcbcbc
 
 # Cursor foreground and background
 # This is the Line Editor cursor

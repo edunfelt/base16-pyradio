@@ -12,11 +12,11 @@ Active Station      #f47067
 Status Bar          #1c2128 #539bf5
 
 # Normal cursor foreground and background
-Normal Cursor       #1c2128 #539bf5
+Normal Cursor       #1c2128 #f47067
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #1c2128 #f47067
+Active Cursor       #1c2128 #539bf5
 
 # Cursor foreground and background
 # This is the Line Editor cursor

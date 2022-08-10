@@ -12,11 +12,11 @@ Active Station      #90A959
 Status Bar          #151515 #AC4142
 
 # Normal cursor foreground and background
-Normal Cursor       #151515 #AC4142
+Normal Cursor       #151515 #90A959
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #151515 #90A959
+Active Cursor       #151515 #AC4142
 
 # Cursor foreground and background
 # This is the Line Editor cursor

@@ -12,11 +12,11 @@ Active Station      #006e93
 Status Bar          #feedf3 #df2d52
 
 # Normal cursor foreground and background
-Normal Cursor       #feedf3 #df2d52
+Normal Cursor       #feedf3 #006e93
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #feedf3 #006e93
+Active Cursor       #feedf3 #df2d52
 
 # Cursor foreground and background
 # This is the Line Editor cursor
