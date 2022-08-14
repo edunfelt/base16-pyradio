@@ -12,11 +12,11 @@ Active Station      #db7070
 Status Bar          #fafafa #6587bf
 
 # Normal cursor foreground and background
-Normal Cursor       #fafafa #6587bf
+Normal Cursor       #fafafa #db7070
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #fafafa #db7070
+Active Cursor       #fafafa #6587bf
 
 # Cursor foreground and background
 # This is the Line Editor cursor
