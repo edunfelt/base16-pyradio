@@ -1,0 +1,43 @@
+# Base16 DanQing Light for pyradio
+# By Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+
+# Main foreground and background
+Stations            #5a605d #fcfefd
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #B0A4E3
+
+# Status bar foreground and background
+Status Bar          #fcfefd #F9906F
+
+# Normal cursor foreground and background
+Normal Cursor       #fcfefd #B0A4E3
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #fcfefd #F9906F
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #fcfefd #5a605d
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #B0A4E3
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #8AB361
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #cad8d2
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0
