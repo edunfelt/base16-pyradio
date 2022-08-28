@@ -1,39 +1,39 @@
-# Base16 EverForest for pyradio
-# By sainnhe
+# Base16 Everforest for pyradio
+# By Sainnhe Park (https:&#x2F;&#x2F;github.com&#x2F;sainnhe)
 
 # Main foreground and background
-Stations            #d3c6aa #2b3339
+Stations            #d3c6aa #2f383e
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #e67e80
+Active Station      #7fbbb3
 
 # Status bar foreground and background
-Status Bar          #2b3339 #7fbbb3
+Status Bar          #2f383e #a7c080
 
 # Normal cursor foreground and background
-Normal Cursor       #2b3339 #e67e80
+Normal Cursor       #2f383e #7fbbb3
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #2b3339 #7fbbb3
+Active Cursor       #2f383e #a7c080
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #2b3339 #d3c6aa
+Edit Cursor         #2f383e #d3c6aa
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #e67e80
+Extra Func          #7fbbb3
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #a7c080
+PyRadio URL         #83c092
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #868d80
+Messages Border     #859289
 
 # Theme Transparency
 # Values are:
