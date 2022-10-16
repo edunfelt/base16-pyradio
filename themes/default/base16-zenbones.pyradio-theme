@@ -1,0 +1,43 @@
+# Base16 Zenbones for pyradio
+# By mcchrish
+
+# Main foreground and background
+Stations            #B279A7 #191919
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #3D3839
+
+# Status bar foreground and background
+Status Bar          #191919 #CF86C1
+
+# Normal cursor foreground and background
+Normal Cursor       #191919 #3D3839
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #191919 #CF86C1
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #191919 #B279A7
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #3D3839
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #D68C67
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #B77E64
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0
