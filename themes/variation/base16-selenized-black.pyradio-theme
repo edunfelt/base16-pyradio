@@ -1,0 +1,43 @@
+# Base16 selenized-black for pyradio
+# By Jan Warchol (https:&#x2F;&#x2F;github.com&#x2F;jan-warchol&#x2F;selenized) &#x2F; adapted to base16 by ali
+
+# Main foreground and background
+Stations            #b9b9b9 #181818
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #ed4a46
+
+# Status bar foreground and background
+Status Bar          #181818 #70b433
+
+# Normal cursor foreground and background
+Normal Cursor       #181818 #ed4a46
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #181818 #70b433
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #181818 #b9b9b9
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ed4a46
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #b9b9b9
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #777777
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0
