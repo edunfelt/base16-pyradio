@@ -1,39 +1,39 @@
-# Base16 Catppuccin for pyradio
-# By Pocco81 (https:&#x2F;&#x2F;github.com&#x2F;pocco81)
+# Base16 standardized-dark for pyradio
+# By ali (https:&#x2F;&#x2F;github.com&#x2F;ali-githb&#x2F;base16-standardized-scheme)
 
 # Main foreground and background
-Stations            #D7DAE0 #1E1E28
+Stations            #c0c0c0 #222222
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #F28FAD
+Active Station      #00a3f2
 
 # Status bar foreground and background
-Status Bar          #1E1E28 #ABE9B3
+Status Bar          #222222 #e15d67
 
 # Normal cursor foreground and background
-Normal Cursor       #1E1E28 #F28FAD
+Normal Cursor       #222222 #00a3f2
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #1E1E28 #ABE9B3
+Active Cursor       #222222 #e15d67
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #1E1E28 #D7DAE0
+Edit Cursor         #222222 #c0c0c0
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #F28FAD
+Extra Func          #00a3f2
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #D7DAE0
+PyRadio URL         #5db129
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #575268
+Messages Border     #898989
 
 # Theme Transparency
 # Values are:

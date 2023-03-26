@@ -1,39 +1,39 @@
-# Base16 Apprentice for pyradio
-# By romainl
+# Base16 Catppuccin Macchiato for pyradio
+# By https:&#x2F;&#x2F;github.com&#x2F;catppuccin&#x2F;catppuccin
 
 # Main foreground and background
-Stations            #5F5F87 #262626
+Stations            #cad3f5 #24273a
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #8787AF
+Active Station      #ed8796
 
 # Status bar foreground and background
-Status Bar          #262626 #444444
+Status Bar          #24273a #a6da95
 
 # Normal cursor foreground and background
-Normal Cursor       #262626 #8787AF
+Normal Cursor       #24273a #ed8796
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #262626 #444444
+Active Cursor       #24273a #a6da95
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #262626 #5F5F87
+Edit Cursor         #24273a #cad3f5
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #8787AF
+Extra Func          #ed8796
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #FFFFAF
+PyRadio URL         #cad3f5
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #87875F
+Messages Border     #494d64
 
 # Theme Transparency
 # Values are:

@@ -1,39 +1,39 @@
-# Base16 Apprentice for pyradio
-# By romainl
+# Base16 standardized-light for pyradio
+# By ali (https:&#x2F;&#x2F;github.com&#x2F;ali-githb&#x2F;base16-standardized-scheme)
 
 # Main foreground and background
-Stations            #5F5F87 #262626
+Stations            #444444 #ffffff
 
 # Playing station text color
 # (background color will come from Stations)
-Active Station      #8787AF
+Active Station      #d03e3e
 
 # Status bar foreground and background
-Status Bar          #262626 #444444
+Status Bar          #ffffff #3173c5
 
 # Normal cursor foreground and background
-Normal Cursor       #262626 #8787AF
+Normal Cursor       #ffffff #d03e3e
 
 # Cursor foreground and background
 # when cursor on playing station
-Active Cursor       #262626 #444444
+Active Cursor       #ffffff #3173c5
 
 # Cursor foreground and background
 # This is the Line Editor cursor
-Edit Cursor         #262626 #5F5F87
+Edit Cursor         #ffffff #444444
 
 # Text color for extra function indication
 # and jump numbers within the status bar
 # (background color will come from Stations)
-Extra Func          #8787AF
+Extra Func          #d03e3e
 
 # Text color for URL
 # (background color will come from Stations)
-PyRadio URL         #FFFFAF
+PyRadio URL         #31861f
 
 # Message window borser foreground
 # (background color will come from Stations)
-Messages Border     #87875F
+Messages Border     #767676
 
 # Theme Transparency
 # Values are:
