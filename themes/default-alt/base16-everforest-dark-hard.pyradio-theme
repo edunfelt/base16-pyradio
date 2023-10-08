@@ -1,0 +1,43 @@
+# Base16 Everforest Dark Hard for pyradio
+# By Oskar Liew (https:&#x2F;&#x2F;github.com&#x2F;OskarLiew)
+
+# Main foreground and background
+Stations            #d3c6aa #272e33
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #a7c080
+
+# Status bar foreground and background
+Status Bar          #272e33 #7fbbb3
+
+# Normal cursor foreground and background
+Normal Cursor       #272e33 #a7c080
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #272e33 #7fbbb3
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #272e33 #d3c6aa
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #a7c080
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #83c092
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #859289
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0

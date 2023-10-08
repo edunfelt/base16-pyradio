@@ -1,0 +1,43 @@
+# Base16 Oxocarbon Light for pyradio
+# By shaunsingh&#x2F;IBM
+
+# Main foreground and background
+Stations            #393939 #f2f4f8
+
+# Playing station text color
+# (background color will come from Stations)
+Active Station      #ff7eb6
+
+# Status bar foreground and background
+Status Bar          #f2f4f8 #0f62fe
+
+# Normal cursor foreground and background
+Normal Cursor       #f2f4f8 #ff7eb6
+
+# Cursor foreground and background
+# when cursor on playing station
+Active Cursor       #f2f4f8 #0f62fe
+
+# Cursor foreground and background
+# This is the Line Editor cursor
+Edit Cursor         #f2f4f8 #393939
+
+# Text color for extra function indication
+# and jump numbers within the status bar
+# (background color will come from Stations)
+Extra Func          #ff7eb6
+
+# Text color for URL
+# (background color will come from Stations)
+PyRadio URL         #393939
+
+# Message window borser foreground
+# (background color will come from Stations)
+Messages Border     #161616
+
+# Theme Transparency
+# Values are:
+#   0: No transparency (default)
+#   1: Theme is transparent
+#   2: Obey config setting
+transparency        0
